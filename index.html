@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Twitch — Статистика</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="page">
+  <header class="header">
+    <div>
+      <div class="eyebrow">TWITCH · cJIoKouHblu</div>
+      <h1>Статистика</h1>
+      <p id="updated" class="muted">Загрузка…</p>
+    </div>
+  </header>
+
+  <nav class="tabs" aria-label="Статистика">
+    <button class="tab active" data-board="level">Уровни</button>
+    <button class="tab" data-board="watchtime">Время</button>
+    <button class="tab" data-board="messages">Сообщения</button>
+    <button class="tab" data-board="visits">Визиты</button>
+    <button class="tab" data-board="clips">Клипы</button>
+    <button class="tab" data-board="raids">Рейды</button>
+  </nav>
+
+  <div class="periods" id="periods">
+    <button class="period" data-period="week">Неделя</button>
+    <button class="period" data-period="month">Месяц</button>
+    <button class="period active" data-period="all">Всё время</button>
+  </div>
+
+  <div class="search-wrap">
+    <input id="search" type="search" placeholder="Найти зрителя…" autocomplete="off">
+    <span id="searchCount" class="search-count"></span>
+  </div>
+
+  <section class="panel board-panel">
+    <div class="panel-head">
+      <div>
+        <div class="eyebrow">ТАБЛИЦА ЛИДЕРОВ</div>
+        <h2 id="boardTitle">Уровни</h2>
+      </div>
+      <span id="count" class="badge">—</span>
+    </div>
+    <div id="board" class="board-scroll"></div>
+  </section>
+
+  <aside class="profile-panel" id="profilePanel" aria-hidden="true">
+    <div class="panel profile-card">
+      <div class="panel-head">
+        <div>
+          <div class="eyebrow">ПРОФИЛЬ</div>
+          <h2 id="profileName">Зритель</h2>
+        </div>
+        <button id="closeProfile" class="close" aria-label="Закрыть">×</button>
+      </div>
+      <div id="profile" class="profile-empty">Выбери человека в таблице.</div>
+    </div>
+  </aside>
+</main>
+<script src="https://extension-files.twitch.tv/helper/v1/twitch-ext.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

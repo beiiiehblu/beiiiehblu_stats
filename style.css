@@ -1,0 +1,576 @@
+*{box-sizing:border-box}
+
+:root{
+  --bg:#0d0f13;
+  --panel:#15181e;
+  --panel2:#1a1e25;
+  --line:#282d36;
+  --text:#f1f3f6;
+  --muted:#8f97a5;
+  --accent:#f4c542;
+  --sub:#62a8ff;
+  --vip:#ee79b7;
+  --mod:#78d98d;
+}
+
+html,body{
+  margin:0;
+  min-height:100%;
+  background:var(--bg);
+  color:var(--text);
+  font-family:Inter,Segoe UI,system-ui,sans-serif;
+}
+
+body{padding:14px}
+.page{max-width:1280px;margin:auto}
+
+.header{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:16px;
+  padding:5px 2px 14px;
+  border-bottom:1px solid var(--line)
+}
+
+.eyebrow{
+  font-size:10px;
+  letter-spacing:.14em;
+  color:var(--muted);
+  text-transform:uppercase
+}
+
+h1,h2,p{margin:0}
+h1{font-size:30px;line-height:1.1;margin-top:5px}
+h2{font-size:19px;line-height:1.15;margin-top:4px}
+
+.muted{
+  color:var(--muted);
+  font-size:11px;
+  margin-top:6px
+}
+
+.tabs,.periods{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+  padding:12px 0 6px
+}
+
+.periods{padding:3px 0 9px}
+
+.tab,.period,.close{
+  border:1px solid var(--line);
+  background:transparent;
+  color:var(--muted);
+  padding:7px 10px;
+  border-radius:7px;
+  cursor:pointer;
+  font:inherit
+}
+
+.tab:hover,.period:hover,.close:hover{
+  color:var(--text);
+  border-color:#3b424e
+}
+
+.tab.active,.period.active{
+  color:var(--text);
+  background:rgba(244,197,66,.12);
+  border-color:rgba(244,197,66,.35)
+}
+
+.search-wrap{
+  position:relative;
+  margin:6px 0 10px
+}
+
+.search-wrap input{
+  width:100%;
+  height:37px;
+  border:1px solid var(--line);
+  border-radius:8px;
+  background:var(--panel);
+  color:var(--text);
+  padding:0 62px 0 11px;
+  outline:none;
+  font:inherit
+}
+
+.search-wrap input:focus{border-color:#48505d}
+
+.search-count{
+  position:absolute;
+  right:11px;
+  top:10px;
+  color:var(--muted);
+  font-size:11px
+}
+
+.panel{
+  background:var(--panel);
+  border:1px solid var(--line);
+  border-radius:11px;
+  overflow:hidden
+}
+
+.panel-head{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  padding:13px 14px;
+  border-bottom:1px solid var(--line)
+}
+
+.badge{
+  color:var(--muted);
+  font-size:10px;
+  line-height:1.25;
+  text-align:right
+}
+
+.board-scroll{
+  max-height:68vh;
+  overflow:auto;
+  padding:2px 5px 7px
+}
+
+.row{
+  width:100%;
+  display:grid;
+  grid-template-columns:30px minmax(0,1fr) auto;
+  align-items:center;
+  gap:7px;
+  padding:8px 8px;
+  border:0;
+  background:transparent;
+  color:var(--text);
+  border-radius:8px;
+  cursor:pointer;
+  text-align:left;
+  font:inherit
+}
+
+.row:hover{background:var(--panel2)}
+
+.rank{
+  color:var(--muted);
+  font-variant-numeric:tabular-nums;
+  text-align:center
+}
+
+.user{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  min-width:0
+}
+
+.avatar{
+  width:32px;
+  height:32px;
+  border-radius:50%;
+  object-fit:cover;
+  background:#252a32;
+  flex:none
+}
+
+.avatar.large{
+  width:52px;
+  height:52px
+}
+
+.avatar-empty{border:1px solid #303641}
+
+.user-name{
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis
+}
+
+.value{
+  font-variant-numeric:tabular-nums;
+  white-space:nowrap
+}
+
+.section-divider{
+  padding:10px 8px 5px;
+  color:var(--muted);
+  font-size:9px;
+  letter-spacing:.14em
+}
+
+/* Профиль */
+.profile-panel{
+  position:fixed;
+  z-index:30;
+  top:210px;
+  right:18px;
+  width:min(460px,calc(100vw - 36px));
+  max-height:calc(100vh - 228px);
+  transform:translateX(calc(100% + 28px));
+  transition:transform .18s ease;
+  pointer-events:none
+}
+
+.profile-panel.open{
+  transform:translateX(0);
+  pointer-events:auto
+}
+
+.profile-card{
+  max-height:calc(100vh - 228px);
+  overflow:auto;
+  box-shadow:0 20px 70px rgba(0,0,0,.5)
+}
+
+.profile-panel .panel-head{
+  position:sticky;
+  top:0;
+  background:var(--panel);
+  z-index:2
+}
+
+.close{
+  font-size:20px;
+  line-height:1;
+  padding:4px 8px
+}
+
+.profile{padding:16px}
+
+.profile-top{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  padding-bottom:15px;
+  border-bottom:1px solid var(--line)
+}
+
+.profile-level{
+  color:var(--accent);
+  font-size:13px;
+  margin-top:3px
+}
+
+.progress-wrap{margin:15px 0}
+
+.progress-meta{
+  display:flex;
+  justify-content:space-between;
+  color:var(--muted);
+  font-size:11px;
+  margin-bottom:6px
+}
+
+.progress{
+  height:6px;
+  background:#272c34;
+  border-radius:99px;
+  overflow:hidden
+}
+
+.progress>span{
+  display:block;
+  height:100%;
+  background:var(--accent)
+}
+
+.stats{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:1px;
+  background:var(--line);
+  border:1px solid var(--line);
+  border-radius:8px;
+  overflow:hidden
+}
+
+.stat{
+  background:var(--panel2);
+  padding:10px
+}
+
+.stat-label{color:var(--muted);font-size:10px}
+.stat-value{margin-top:3px;font-size:14px}
+
+.visit-value{
+  display:flex;
+  flex-direction:column;
+  line-height:1.2
+}
+
+.visit-value small{
+  color:var(--muted);
+  font-size:10px;
+  margin-top:2px
+}
+
+.flags{
+  display:flex;
+  flex-wrap:wrap;
+  gap:5px;
+  margin-top:13px
+}
+
+.flag{
+  padding:4px 7px;
+  border:1px solid var(--line);
+  border-radius:6px;
+  color:var(--muted);
+  font-size:10px
+}
+
+.flag.follower{border-color:#3d4652}
+.flag.subscriber{
+  color:var(--sub);
+  border-color:rgba(98,168,255,.7);
+  background:rgba(98,168,255,.13)
+}
+.flag.vip{
+  color:var(--vip);
+  border-color:rgba(238,121,183,.7);
+  background:rgba(238,121,183,.10)
+}
+.flag.moderator{
+  color:var(--mod);
+  border-color:rgba(120,217,141,.6);
+  background:rgba(120,217,141,.10)
+}
+
+.profile-empty{
+  padding:16px;
+  color:var(--muted);
+  font-size:12px
+}
+
+
+/* --- Кастомные скроллбары --- */
+/* Chrome / Edge / Twitch Chromium */
+html{
+  scrollbar-width:thin;
+  scrollbar-color:#3a404b transparent;
+}
+
+body{
+  scrollbar-width:thin;
+  scrollbar-color:#3a404b transparent;
+}
+
+*{
+  scrollbar-width:thin;
+  scrollbar-color:#3a404b transparent;
+}
+
+*::-webkit-scrollbar{
+  width:6px;
+  height:6px;
+}
+
+*::-webkit-scrollbar-track{
+  background:transparent;
+}
+
+*::-webkit-scrollbar-thumb{
+  background:#3a404b;
+  border-radius:99px;
+  border:1px solid transparent;
+  background-clip:padding-box;
+}
+
+*::-webkit-scrollbar-thumb:hover{
+  background:#5a6270;
+  background-clip:padding-box;
+}
+
+*::-webkit-scrollbar-corner{
+  background:transparent;
+}
+
+/* Внутри таблицы скроллбар почти невидимый:
+   сам список остаётся прокручиваемым колесом/тачем. */
+.board-scroll{
+  scrollbar-width:thin;
+  scrollbar-color:#343a45 transparent;
+}
+
+.board-scroll::-webkit-scrollbar{
+  width:5px;
+}
+
+.board-scroll::-webkit-scrollbar-thumb{
+  background:#343a45;
+}
+
+.board-scroll::-webkit-scrollbar-thumb:hover{
+  background:#4b5360;
+}
+
+/* Большое отдельное окно: возвращаем более просторный интерфейс */
+@media(min-width:800px){
+  body{padding:28px}
+
+  .header{
+    gap:24px;
+    padding:8px 2px 24px
+  }
+
+  .eyebrow{font-size:11px}
+  h1{font-size:32px;margin-top:6px}
+  h2{font-size:20px;margin-top:5px}
+  .muted{font-size:12px;margin-top:8px}
+
+  .tabs,.periods{
+    gap:8px;
+    padding:18px 0 8px
+  }
+
+  .periods{padding:4px 0 12px}
+
+  .tab,.period,.close{
+    padding:9px 13px;
+    border-radius:8px
+  }
+
+  .search-wrap{margin:8px 0 14px}
+
+  .search-wrap input{
+    height:40px;
+    border-radius:9px;
+    padding:0 72px 0 13px
+  }
+
+  .search-count{
+    right:13px;
+    top:11px;
+    font-size:12px
+  }
+
+  .panel{border-radius:12px}
+
+  .panel-head{padding:18px 20px}
+  .badge{font-size:12px}
+
+  .board-scroll{
+    padding:4px 8px 12px;
+    max-height:68vh
+  }
+
+  .row{
+    grid-template-columns:48px 1fr auto;
+    gap:12px;
+    padding:13px 12px;
+    border-radius:9px
+  }
+
+  .user{gap:11px}
+  .avatar{width:36px;height:36px}
+  .avatar.large{width:62px;height:62px}
+
+  .section-divider{
+    padding:18px 12px 8px;
+    font-size:10px
+  }
+
+  .profile{padding:20px}
+  .profile-top{gap:14px;padding-bottom:18px}
+  .profile-level{font-size:14px}
+  .progress-wrap{margin:18px 0}
+  .progress-meta{font-size:12px}
+  .progress{height:7px}
+  .stat{padding:12px}
+  .stat-label{font-size:11px}
+  .stat-value{font-size:15px}
+  .visit-value small{font-size:11px}
+  .flags{gap:6px;margin-top:16px}
+  .flag{padding:5px 8px;font-size:11px}
+}
+
+/* Twitch / узкие панели */
+@media(max-width:799px){
+  body{padding:8px}
+  .header{
+    align-items:flex-start;
+    flex-direction:column;
+    padding-bottom:10px
+  }
+
+  h1{font-size:24px}
+  .tabs,.periods{gap:4px}
+
+  .tab,.period{
+    padding:6px 8px;
+    font-size:12px
+  }
+
+  .panel-head{
+    padding:10px 11px
+  }
+
+  .board-scroll{
+    max-height:70vh
+  }
+
+  .row{
+    grid-template-columns:26px minmax(0,1fr) auto;
+    gap:6px;
+    padding:7px 6px
+  }
+
+  .user{gap:7px}
+  .avatar{width:29px;height:29px}
+  .value{font-size:12px}
+  .user-name{font-size:13px}
+}
+
+/* Совсем узкий телефон */
+@media(max-width:380px){
+  body{padding:6px}
+  h1{font-size:22px}
+  .eyebrow{font-size:8px}
+  .muted{font-size:10px}
+
+  .tabs,.periods{
+    gap:3px;
+    padding-top:8px
+  }
+
+  .tab,.period{
+    padding:5px 7px;
+    font-size:11px
+  }
+
+  .search-wrap{margin-bottom:7px}
+  .search-wrap input{height:34px;font-size:12px}
+
+  .panel-head{
+    padding:9px 10px
+  }
+
+  h2{font-size:16px}
+  .badge{font-size:9px}
+
+  .row{
+    grid-template-columns:22px minmax(0,1fr) auto;
+    padding:6px 5px
+  }
+
+  .avatar{width:27px;height:27px}
+  .user-name{font-size:12px}
+  .value{font-size:11px}
+}
+
+/* Узкий профиль: вместо бокового выезда — почти полноэкранная карточка */
+@media(max-width:700px){
+  .profile-panel{
+    top:8px;
+    right:8px;
+    width:calc(100vw - 16px);
+    max-height:calc(100vh - 16px)
+  }
+
+  .profile-card{
+    max-height:calc(100vh - 16px)
+  }
+}
