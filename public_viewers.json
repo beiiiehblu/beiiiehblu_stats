@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T21:09:59.054560+00:00",
+  "updated_at": "2026-09-23T21:15:03.637045+00:00",
   "count": 257,
   "leaderboards": {
     "level": [
@@ -888,6 +888,20 @@
       },
       {
         "rank": 64,
+        "username": "antisocialelement1991",
+        "display_name": "antisocialelement1991",
+        "level": 1,
+        "xp": 166,
+        "value": 166,
+        "watch_seconds": 1620,
+        "messages": 31,
+        "visits": 2,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
+      },
+      {
+        "rank": 65,
         "username": "danissimology",
         "display_name": "danissimology",
         "level": 1,
@@ -901,7 +915,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7b42ee6-9e95-4d22-9d4a-27fb5d305441-profile_image-300x300.png"
       },
       {
-        "rank": 65,
+        "rank": 66,
         "username": "antii_haaipponnen",
         "display_name": "antii_haaipponnen",
         "level": 1,
@@ -915,7 +929,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
       },
       {
-        "rank": 66,
+        "rank": 67,
         "username": "igorek2043",
         "display_name": "igorek2043",
         "level": 1,
@@ -927,20 +941,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
-      },
-      {
-        "rank": 67,
-        "username": "antisocialelement1991",
-        "display_name": "antisocialelement1991",
-        "level": 1,
-        "xp": 138,
-        "value": 138,
-        "watch_seconds": 1320,
-        "messages": 28,
-        "visits": 2,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
       },
       {
         "rank": 68,
@@ -2710,6 +2710,20 @@
       },
       {
         "rank": 67,
+        "username": "antisocialelement1991",
+        "display_name": "antisocialelement1991",
+        "level": 1,
+        "xp": 166,
+        "value": 1620,
+        "watch_seconds": 1620,
+        "messages": 31,
+        "visits": 2,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
+      },
+      {
+        "rank": 68,
         "username": "deaths_",
         "display_name": "deaths_",
         "level": 1,
@@ -2723,7 +2737,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
       },
       {
-        "rank": 68,
+        "rank": 69,
         "username": "jertixon",
         "display_name": "jertixon",
         "level": 1,
@@ -2737,7 +2751,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ca4eb2c-7c6e-4a15-9b38-9a2dff03f347-profile_image-300x300.png"
       },
       {
-        "rank": 69,
+        "rank": 70,
         "username": "vladimirs05",
         "display_name": "vladimirs05",
         "level": 1,
@@ -2751,7 +2765,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffe556e1-2312-405a-aadb-0199229114fb-profile_image-300x300.jpeg"
       },
       {
-        "rank": 70,
+        "rank": 71,
         "username": "dxatz83",
         "display_name": "dxatz83",
         "level": 1,
@@ -2765,7 +2779,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6a20c55-9eb3-4ea5-9c7b-429b2282890f-profile_image-300x300.png"
       },
       {
-        "rank": 71,
+        "rank": 72,
         "username": "prosto_serega50",
         "display_name": "prosto_serega50",
         "level": 1,
@@ -2779,7 +2793,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/650a02ce-e9f3-4821-a71f-c2ca54dd5ee0-profile_image-300x300.png"
       },
       {
-        "rank": 72,
+        "rank": 73,
         "username": "the_ambro5ia",
         "display_name": "the_Ambro5ia",
         "level": 1,
@@ -2791,20 +2805,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d3bf07-858b-4934-a2f9-ec01adb199b2-profile_image-300x300.png"
-      },
-      {
-        "rank": 73,
-        "username": "antisocialelement1991",
-        "display_name": "antisocialelement1991",
-        "level": 1,
-        "xp": 138,
-        "value": 1320,
-        "watch_seconds": 1320,
-        "messages": 28,
-        "visits": 2,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
       },
       {
         "rank": 74,
@@ -3594,6 +3594,20 @@
       },
       {
         "rank": 4,
+        "username": "antisocialelement1991",
+        "display_name": "antisocialelement1991",
+        "level": 1,
+        "xp": 166,
+        "value": 31,
+        "watch_seconds": 1620,
+        "messages": 31,
+        "visits": 2,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
+      },
+      {
+        "rank": 5,
         "username": "sti4ch5",
         "display_name": "sti4ch5",
         "level": 9,
@@ -3605,20 +3619,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bc5c994-25d3-4cac-ac71-632524635444-profile_image-300x300.png"
-      },
-      {
-        "rank": 5,
-        "username": "antisocialelement1991",
-        "display_name": "antisocialelement1991",
-        "level": 1,
-        "xp": 138,
-        "value": 28,
-        "watch_seconds": 1320,
-        "messages": 28,
-        "visits": 2,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
       },
       {
         "rank": 6,
@@ -4075,10 +4075,10 @@
         "username": "antisocialelement1991",
         "display_name": "antisocialelement1991",
         "level": 1,
-        "xp": 138,
+        "xp": 166,
         "value": 2,
-        "watch_seconds": 1320,
-        "messages": 28,
+        "watch_seconds": 1620,
+        "messages": 31,
         "visits": 2,
         "clips": 0,
         "raids": 0,
@@ -4475,10 +4475,10 @@
             "username": "antisocialelement1991",
             "display_name": "antisocialelement1991",
             "level": 1,
-            "xp": 138,
-            "value": 138,
-            "watch_seconds": 1320,
-            "messages": 28,
+            "xp": 166,
+            "value": 166,
+            "watch_seconds": 1620,
+            "messages": 31,
             "visits": 2,
             "clips": 0,
             "raids": 0,
@@ -4617,10 +4617,10 @@
             "username": "antisocialelement1991",
             "display_name": "antisocialelement1991",
             "level": 1,
-            "xp": 138,
-            "value": 1320,
-            "watch_seconds": 1320,
-            "messages": 28,
+            "xp": 166,
+            "value": 1620,
+            "watch_seconds": 1620,
+            "messages": 31,
             "visits": 2,
             "clips": 0,
             "raids": 0,
@@ -4745,10 +4745,10 @@
             "username": "antisocialelement1991",
             "display_name": "antisocialelement1991",
             "level": 1,
-            "xp": 138,
-            "value": 28,
-            "watch_seconds": 1320,
-            "messages": 28,
+            "xp": 166,
+            "value": 31,
+            "watch_seconds": 1620,
+            "messages": 31,
             "visits": 2,
             "clips": 0,
             "raids": 0,
@@ -4817,10 +4817,10 @@
             "username": "antisocialelement1991",
             "display_name": "antisocialelement1991",
             "level": 1,
-            "xp": 138,
+            "xp": 166,
             "value": 2,
-            "watch_seconds": 1320,
-            "messages": 28,
+            "watch_seconds": 1620,
+            "messages": 31,
             "visits": 2,
             "clips": 0,
             "raids": 0,
@@ -5174,17 +5174,17 @@
           },
           {
             "rank": 10,
-            "username": "gypl",
-            "display_name": "Gypl",
-            "level": 8,
-            "xp": 248,
-            "value": 1380,
-            "watch_seconds": 1380,
-            "messages": 9,
+            "username": "antisocialelement1991",
+            "display_name": "antisocialelement1991",
+            "level": 1,
+            "xp": 166,
+            "value": 1620,
+            "watch_seconds": 1620,
+            "messages": 31,
             "visits": 2,
             "clips": 0,
             "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86a2e5c-4c11-4384-b0af-6b9c5e4e160f-profile_image-300x300.jpeg"
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
           }
         ],
         "messages": [
@@ -5221,10 +5221,10 @@
             "username": "antisocialelement1991",
             "display_name": "antisocialelement1991",
             "level": 1,
-            "xp": 138,
-            "value": 28,
-            "watch_seconds": 1320,
-            "messages": 28,
+            "xp": 166,
+            "value": 31,
+            "watch_seconds": 1620,
+            "messages": 31,
             "visits": 2,
             "clips": 0,
             "raids": 0,
@@ -6362,6 +6362,20 @@
           },
           {
             "rank": 64,
+            "username": "antisocialelement1991",
+            "display_name": "antisocialelement1991",
+            "level": 1,
+            "xp": 166,
+            "value": 166,
+            "watch_seconds": 1620,
+            "messages": 31,
+            "visits": 2,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
+          },
+          {
+            "rank": 65,
             "username": "danissimology",
             "display_name": "danissimology",
             "level": 1,
@@ -6375,7 +6389,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7b42ee6-9e95-4d22-9d4a-27fb5d305441-profile_image-300x300.png"
           },
           {
-            "rank": 65,
+            "rank": 66,
             "username": "antii_haaipponnen",
             "display_name": "antii_haaipponnen",
             "level": 1,
@@ -6389,7 +6403,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
           },
           {
-            "rank": 66,
+            "rank": 67,
             "username": "igorek2043",
             "display_name": "igorek2043",
             "level": 1,
@@ -6401,20 +6415,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
-          },
-          {
-            "rank": 67,
-            "username": "antisocialelement1991",
-            "display_name": "antisocialelement1991",
-            "level": 1,
-            "xp": 138,
-            "value": 138,
-            "watch_seconds": 1320,
-            "messages": 28,
-            "visits": 2,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
           },
           {
             "rank": 68,
@@ -8184,6 +8184,20 @@
           },
           {
             "rank": 67,
+            "username": "antisocialelement1991",
+            "display_name": "antisocialelement1991",
+            "level": 1,
+            "xp": 166,
+            "value": 1620,
+            "watch_seconds": 1620,
+            "messages": 31,
+            "visits": 2,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
+          },
+          {
+            "rank": 68,
             "username": "deaths_",
             "display_name": "deaths_",
             "level": 1,
@@ -8197,7 +8211,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
           },
           {
-            "rank": 68,
+            "rank": 69,
             "username": "jertixon",
             "display_name": "jertixon",
             "level": 1,
@@ -8211,7 +8225,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ca4eb2c-7c6e-4a15-9b38-9a2dff03f347-profile_image-300x300.png"
           },
           {
-            "rank": 69,
+            "rank": 70,
             "username": "vladimirs05",
             "display_name": "vladimirs05",
             "level": 1,
@@ -8225,7 +8239,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffe556e1-2312-405a-aadb-0199229114fb-profile_image-300x300.jpeg"
           },
           {
-            "rank": 70,
+            "rank": 71,
             "username": "dxatz83",
             "display_name": "dxatz83",
             "level": 1,
@@ -8239,7 +8253,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6a20c55-9eb3-4ea5-9c7b-429b2282890f-profile_image-300x300.png"
           },
           {
-            "rank": 71,
+            "rank": 72,
             "username": "prosto_serega50",
             "display_name": "prosto_serega50",
             "level": 1,
@@ -8253,7 +8267,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/650a02ce-e9f3-4821-a71f-c2ca54dd5ee0-profile_image-300x300.png"
           },
           {
-            "rank": 72,
+            "rank": 73,
             "username": "the_ambro5ia",
             "display_name": "the_Ambro5ia",
             "level": 1,
@@ -8265,20 +8279,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d3bf07-858b-4934-a2f9-ec01adb199b2-profile_image-300x300.png"
-          },
-          {
-            "rank": 73,
-            "username": "antisocialelement1991",
-            "display_name": "antisocialelement1991",
-            "level": 1,
-            "xp": 138,
-            "value": 1320,
-            "watch_seconds": 1320,
-            "messages": 28,
-            "visits": 2,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
           },
           {
             "rank": 74,
@@ -9068,6 +9068,20 @@
           },
           {
             "rank": 4,
+            "username": "antisocialelement1991",
+            "display_name": "antisocialelement1991",
+            "level": 1,
+            "xp": 166,
+            "value": 31,
+            "watch_seconds": 1620,
+            "messages": 31,
+            "visits": 2,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
+          },
+          {
+            "rank": 5,
             "username": "sti4ch5",
             "display_name": "sti4ch5",
             "level": 9,
@@ -9079,20 +9093,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bc5c994-25d3-4cac-ac71-632524635444-profile_image-300x300.png"
-          },
-          {
-            "rank": 5,
-            "username": "antisocialelement1991",
-            "display_name": "antisocialelement1991",
-            "level": 1,
-            "xp": 138,
-            "value": 28,
-            "watch_seconds": 1320,
-            "messages": 28,
-            "visits": 2,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
           },
           {
             "rank": 6,
@@ -9549,10 +9549,10 @@
             "username": "antisocialelement1991",
             "display_name": "antisocialelement1991",
             "level": 1,
-            "xp": 138,
+            "xp": 166,
             "value": 2,
-            "watch_seconds": 1320,
-            "messages": 28,
+            "watch_seconds": 1620,
+            "messages": 31,
             "visits": 2,
             "clips": 0,
             "raids": 0,
@@ -15565,17 +15565,17 @@
       "username": "antisocialelement1991",
       "display_name": "antisocialelement1991",
       "level": 1,
-      "xp": 138,
+      "xp": 166,
       "current_level_xp": 100,
       "next_level_xp": 300,
-      "xp_to_next": 162,
-      "progress": 0.19,
-      "watch_seconds": 1320,
-      "messages": 28,
+      "xp_to_next": 134,
+      "progress": 0.33,
+      "watch_seconds": 1620,
+      "messages": 31,
       "visits": 2,
       "clips": 0,
       "raids": 0,
-      "last_seen": "2026-09-23T21:09:36.288248+00:00",
+      "last_seen": "2026-09-23T21:14:36.488709+00:00",
       "last_visit_at": "2026-09-23T21:09:36.288224+00:00",
       "is_followed": false,
       "is_subscriber": false,
