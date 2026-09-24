@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T00:27:49.021919+00:00",
+  "updated_at": "2026-09-24T00:32:53.408697+00:00",
   "count": 260,
   "leaderboards": {
     "level": [
@@ -874,6 +874,20 @@
       },
       {
         "rank": 63,
+        "username": "serg8632",
+        "display_name": "serg8632",
+        "level": 1,
+        "xp": 215,
+        "value": 215,
+        "watch_seconds": 2580,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
+      },
+      {
+        "rank": 64,
         "username": "toad_jr_213",
         "display_name": "toad_jr_213",
         "level": 1,
@@ -885,20 +899,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c62a2a8-55aa-4580-820c-ec98c00ed7aa-profile_image-300x300.jpeg"
-      },
-      {
-        "rank": 64,
-        "username": "serg8632",
-        "display_name": "serg8632",
-        "level": 1,
-        "xp": 185,
-        "value": 185,
-        "watch_seconds": 2220,
-        "messages": 0,
-        "visits": 1,
-        "clips": 0,
-        "raids": 0,
-        "avatar": null
       },
       {
         "rank": 65,
@@ -2682,6 +2682,20 @@
       },
       {
         "rank": 62,
+        "username": "serg8632",
+        "display_name": "serg8632",
+        "level": 1,
+        "xp": 215,
+        "value": 2580,
+        "watch_seconds": 2580,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
+      },
+      {
+        "rank": 63,
         "username": "antisocialelement1991",
         "display_name": "antisocialelement1991",
         "level": 1,
@@ -2695,7 +2709,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
       },
       {
-        "rank": 63,
+        "rank": 64,
         "username": "toad_jr_213",
         "display_name": "toad_jr_213",
         "level": 1,
@@ -2707,20 +2721,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c62a2a8-55aa-4580-820c-ec98c00ed7aa-profile_image-300x300.jpeg"
-      },
-      {
-        "rank": 64,
-        "username": "serg8632",
-        "display_name": "serg8632",
-        "level": 1,
-        "xp": 185,
-        "value": 2220,
-        "watch_seconds": 2220,
-        "messages": 0,
-        "visits": 1,
-        "clips": 0,
-        "raids": 0,
-        "avatar": null
       },
       {
         "rank": 65,
@@ -4355,9 +4355,9 @@
         "username": "serg8632",
         "display_name": "serg8632",
         "level": 1,
-        "xp": 185,
+        "xp": 215,
         "value": 1,
-        "watch_seconds": 2220,
+        "watch_seconds": 2580,
         "messages": 0,
         "visits": 1,
         "clips": 0,
@@ -4626,6 +4626,20 @@
           },
           {
             "rank": 3,
+            "username": "serg8632",
+            "display_name": "serg8632",
+            "level": 1,
+            "xp": 215,
+            "value": 215,
+            "watch_seconds": 2580,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 4,
             "username": "dr_drunkenshte1n",
             "display_name": "dr_drunkenshte1n",
             "level": 2,
@@ -4637,20 +4651,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e6066ef-b8e9-45aa-a4d6-8fad18da588b-profile_image-300x300.png"
-          },
-          {
-            "rank": 4,
-            "username": "serg8632",
-            "display_name": "serg8632",
-            "level": 1,
-            "xp": 185,
-            "value": 185,
-            "watch_seconds": 2220,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": null
           },
           {
             "rank": 5,
@@ -4754,6 +4754,20 @@
           },
           {
             "rank": 2,
+            "username": "serg8632",
+            "display_name": "serg8632",
+            "level": 1,
+            "xp": 215,
+            "value": 2580,
+            "watch_seconds": 2580,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 3,
             "username": "antisocialelement1991",
             "display_name": "antisocialelement1991",
             "level": 1,
@@ -4767,7 +4781,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "dr_drunkenshte1n",
             "display_name": "dr_drunkenshte1n",
             "level": 2,
@@ -4779,20 +4793,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e6066ef-b8e9-45aa-a4d6-8fad18da588b-profile_image-300x300.png"
-          },
-          {
-            "rank": 4,
-            "username": "serg8632",
-            "display_name": "serg8632",
-            "level": 1,
-            "xp": 185,
-            "value": 2220,
-            "watch_seconds": 2220,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": null
           },
           {
             "rank": 5,
@@ -6516,6 +6516,20 @@
           },
           {
             "rank": 63,
+            "username": "serg8632",
+            "display_name": "serg8632",
+            "level": 1,
+            "xp": 215,
+            "value": 215,
+            "watch_seconds": 2580,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 64,
             "username": "toad_jr_213",
             "display_name": "toad_jr_213",
             "level": 1,
@@ -6527,20 +6541,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c62a2a8-55aa-4580-820c-ec98c00ed7aa-profile_image-300x300.jpeg"
-          },
-          {
-            "rank": 64,
-            "username": "serg8632",
-            "display_name": "serg8632",
-            "level": 1,
-            "xp": 185,
-            "value": 185,
-            "watch_seconds": 2220,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": null
           },
           {
             "rank": 65,
@@ -8324,6 +8324,20 @@
           },
           {
             "rank": 62,
+            "username": "serg8632",
+            "display_name": "serg8632",
+            "level": 1,
+            "xp": 215,
+            "value": 2580,
+            "watch_seconds": 2580,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 63,
             "username": "antisocialelement1991",
             "display_name": "antisocialelement1991",
             "level": 1,
@@ -8337,7 +8351,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
           },
           {
-            "rank": 63,
+            "rank": 64,
             "username": "toad_jr_213",
             "display_name": "toad_jr_213",
             "level": 1,
@@ -8349,20 +8363,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c62a2a8-55aa-4580-820c-ec98c00ed7aa-profile_image-300x300.jpeg"
-          },
-          {
-            "rank": 64,
-            "username": "serg8632",
-            "display_name": "serg8632",
-            "level": 1,
-            "xp": 185,
-            "value": 2220,
-            "watch_seconds": 2220,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": null
           },
           {
             "rank": 65,
@@ -9997,9 +9997,9 @@
             "username": "serg8632",
             "display_name": "serg8632",
             "level": 1,
-            "xp": 185,
+            "xp": 215,
             "value": 1,
-            "watch_seconds": 2220,
+            "watch_seconds": 2580,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -15939,17 +15939,17 @@
       "username": "serg8632",
       "display_name": "serg8632",
       "level": 1,
-      "xp": 185,
+      "xp": 215,
       "current_level_xp": 100,
       "next_level_xp": 300,
-      "xp_to_next": 115,
-      "progress": 0.425,
-      "watch_seconds": 2220,
+      "xp_to_next": 85,
+      "progress": 0.575,
+      "watch_seconds": 2580,
       "messages": 0,
       "visits": 1,
       "clips": 0,
       "raids": 0,
-      "last_seen": "2026-09-24T00:26:49.784250+00:00",
+      "last_seen": "2026-09-24T00:32:50.300324+00:00",
       "last_visit_at": "2026-09-23T23:50:47.709874+00:00",
       "is_followed": false,
       "is_subscriber": false,
