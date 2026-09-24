@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T02:49:52.569069+00:00",
-  "count": 260,
+  "updated_at": "2026-09-24T02:55:00.636944+00:00",
+  "count": 261,
   "leaderboards": {
     "level": [
       {
@@ -300,6 +300,20 @@
       },
       {
         "rank": 22,
+        "username": "serg8632",
+        "display_name": "serg8632",
+        "level": 3,
+        "xp": 915,
+        "value": 915,
+        "watch_seconds": 10980,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
+      },
+      {
+        "rank": 23,
         "username": "artpavluk",
         "display_name": "artpavluk",
         "level": 3,
@@ -313,7 +327,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c27801ec-1919-4a4b-ab3b-8fa3bfd48aa4-profile_image-300x300.png"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "username": "inyagin",
         "display_name": "inyagin",
         "level": 3,
@@ -327,7 +341,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef10213d-8bf8-410a-8aa3-cca83e898bb4-profile_image-300x300.png"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "username": "kosha_alex4444",
         "display_name": "kosha_alex4444",
         "level": 3,
@@ -341,7 +355,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/70226b3d-d97a-4ee5-a8c2-12a7a03a23d8-profile_image-300x300.png"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "username": "mrmalifik",
         "display_name": "mrmalifik",
         "level": 3,
@@ -355,7 +369,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/366a988b-e819-4c3b-a454-ae03bdc494c9-profile_image-300x300.jpeg"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "username": "nubijca",
         "display_name": "nubijca",
         "level": 3,
@@ -369,7 +383,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/378a4f7c-8d41-4aa7-b5b9-77bf52577a7a-profile_image-300x300.png"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "username": "perelomych",
         "display_name": "perelomych",
         "level": 3,
@@ -383,7 +397,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/aba131a5-d1d5-4164-abf0-0ce6e1e025d2-profile_image-300x300.png"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "username": "rid192",
         "display_name": "rid192",
         "level": 3,
@@ -397,7 +411,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ae72838-4167-4655-bc33-b30c5f5b21bd-profile_image-300x300.png"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "username": "secutanaka",
         "display_name": "secutanaka",
         "level": 3,
@@ -411,7 +425,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3187d55d-5ee2-4ad5-9a65-37e6ea077815-profile_image-300x300.png"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "username": "serga1122",
         "display_name": "serga1122",
         "level": 3,
@@ -425,7 +439,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "username": "smetanistaya",
         "display_name": "smetanistaya",
         "level": 3,
@@ -437,20 +451,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1db32edc-e832-4500-8f95-298e0fef2973-profile_image-300x300.png"
-      },
-      {
-        "rank": 32,
-        "username": "serg8632",
-        "display_name": "serg8632",
-        "level": 3,
-        "xp": 890,
-        "value": 890,
-        "watch_seconds": 10680,
-        "messages": 0,
-        "visits": 1,
-        "clips": 0,
-        "raids": 0,
-        "avatar": null
       },
       {
         "rank": 33,
@@ -1770,6 +1770,20 @@
       },
       {
         "rank": 127,
+        "username": "qzack",
+        "display_name": "Qzack",
+        "level": 0,
+        "xp": 10,
+        "value": 10,
+        "watch_seconds": 120,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
+      },
+      {
+        "rank": 128,
         "username": "spacedreadnought",
         "display_name": "spacedreadnought",
         "level": 0,
@@ -1783,7 +1797,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1de79abd-c67d-4703-8168-195a6f670bff-profile_image-300x300.png"
       },
       {
-        "rank": 128,
+        "rank": 129,
         "username": "00candyy",
         "display_name": "00Candyy",
         "level": 0,
@@ -1797,7 +1811,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3758051f-6da9-483d-9fea-754b5c913193-profile_image-300x300.png"
       },
       {
-        "rank": 129,
+        "rank": 130,
         "username": "amirmxr",
         "display_name": "amirmxr",
         "level": 0,
@@ -1811,7 +1825,7 @@
         "avatar": null
       },
       {
-        "rank": 130,
+        "rank": 131,
         "username": "epic_mirage489",
         "display_name": "epic_mirage489",
         "level": 0,
@@ -2122,6 +2136,20 @@
       },
       {
         "rank": 22,
+        "username": "serg8632",
+        "display_name": "serg8632",
+        "level": 3,
+        "xp": 915,
+        "value": 10980,
+        "watch_seconds": 10980,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
+      },
+      {
+        "rank": 23,
         "username": "artpavluk",
         "display_name": "artpavluk",
         "level": 3,
@@ -2135,7 +2163,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c27801ec-1919-4a4b-ab3b-8fa3bfd48aa4-profile_image-300x300.png"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "username": "inyagin",
         "display_name": "inyagin",
         "level": 3,
@@ -2149,7 +2177,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef10213d-8bf8-410a-8aa3-cca83e898bb4-profile_image-300x300.png"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "username": "kosha_alex4444",
         "display_name": "kosha_alex4444",
         "level": 3,
@@ -2163,7 +2191,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/70226b3d-d97a-4ee5-a8c2-12a7a03a23d8-profile_image-300x300.png"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "username": "mrmalifik",
         "display_name": "mrmalifik",
         "level": 3,
@@ -2177,7 +2205,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/366a988b-e819-4c3b-a454-ae03bdc494c9-profile_image-300x300.jpeg"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "username": "nubijca",
         "display_name": "nubijca",
         "level": 3,
@@ -2191,7 +2219,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/378a4f7c-8d41-4aa7-b5b9-77bf52577a7a-profile_image-300x300.png"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "username": "perelomych",
         "display_name": "perelomych",
         "level": 3,
@@ -2205,7 +2233,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/aba131a5-d1d5-4164-abf0-0ce6e1e025d2-profile_image-300x300.png"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "username": "rid192",
         "display_name": "rid192",
         "level": 3,
@@ -2219,7 +2247,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ae72838-4167-4655-bc33-b30c5f5b21bd-profile_image-300x300.png"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "username": "secutanaka",
         "display_name": "secutanaka",
         "level": 3,
@@ -2233,7 +2261,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3187d55d-5ee2-4ad5-9a65-37e6ea077815-profile_image-300x300.png"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "username": "serga1122",
         "display_name": "serga1122",
         "level": 3,
@@ -2247,7 +2275,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "username": "smetanistaya",
         "display_name": "smetanistaya",
         "level": 3,
@@ -2259,20 +2287,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1db32edc-e832-4500-8f95-298e0fef2973-profile_image-300x300.png"
-      },
-      {
-        "rank": 32,
-        "username": "serg8632",
-        "display_name": "serg8632",
-        "level": 3,
-        "xp": 890,
-        "value": 10680,
-        "watch_seconds": 10680,
-        "messages": 0,
-        "visits": 1,
-        "clips": 0,
-        "raids": 0,
-        "avatar": null
       },
       {
         "rank": 33,
@@ -3592,6 +3606,20 @@
       },
       {
         "rank": 127,
+        "username": "qzack",
+        "display_name": "Qzack",
+        "level": 0,
+        "xp": 10,
+        "value": 120,
+        "watch_seconds": 120,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
+      },
+      {
+        "rank": 128,
         "username": "spacedreadnought",
         "display_name": "spacedreadnought",
         "level": 0,
@@ -3605,7 +3633,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1de79abd-c67d-4703-8168-195a6f670bff-profile_image-300x300.png"
       },
       {
-        "rank": 128,
+        "rank": 129,
         "username": "00candyy",
         "display_name": "00Candyy",
         "level": 0,
@@ -3619,7 +3647,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3758051f-6da9-483d-9fea-754b5c913193-profile_image-300x300.png"
       },
       {
-        "rank": 129,
+        "rank": 130,
         "username": "amirmxr",
         "display_name": "amirmxr",
         "level": 0,
@@ -4285,9 +4313,9 @@
         "username": "serg8632",
         "display_name": "serg8632",
         "level": 3,
-        "xp": 890,
+        "xp": 915,
         "value": 1,
-        "watch_seconds": 10680,
+        "watch_seconds": 10980,
         "messages": 0,
         "visits": 1,
         "clips": 0,
@@ -4548,6 +4576,20 @@
       },
       {
         "rank": 45,
+        "username": "qzack",
+        "display_name": "Qzack",
+        "level": 0,
+        "xp": 10,
+        "value": 1,
+        "watch_seconds": 120,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
+      },
+      {
+        "rank": 46,
         "username": "spacedreadnought",
         "display_name": "spacedreadnought",
         "level": 0,
@@ -4561,7 +4603,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1de79abd-c67d-4703-8168-195a6f670bff-profile_image-300x300.png"
       },
       {
-        "rank": 46,
+        "rank": 47,
         "username": "00candyy",
         "display_name": "00Candyy",
         "level": 0,
@@ -4575,7 +4617,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3758051f-6da9-483d-9fea-754b5c913193-profile_image-300x300.png"
       },
       {
-        "rank": 47,
+        "rank": 48,
         "username": "amirmxr",
         "display_name": "amirmxr",
         "level": 0,
@@ -4601,9 +4643,9 @@
             "username": "serg8632",
             "display_name": "serg8632",
             "level": 3,
-            "xp": 890,
-            "value": 890,
-            "watch_seconds": 10680,
+            "xp": 915,
+            "value": 915,
+            "watch_seconds": 10980,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -4743,9 +4785,9 @@
             "username": "serg8632",
             "display_name": "serg8632",
             "level": 3,
-            "xp": 890,
-            "value": 10680,
-            "watch_seconds": 10680,
+            "xp": 915,
+            "value": 10980,
+            "watch_seconds": 10980,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -5119,9 +5161,9 @@
             "username": "serg8632",
             "display_name": "serg8632",
             "level": 3,
-            "xp": 890,
-            "value": 890,
-            "watch_seconds": 10680,
+            "xp": 915,
+            "value": 915,
+            "watch_seconds": 10980,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -5261,9 +5303,9 @@
             "username": "serg8632",
             "display_name": "serg8632",
             "level": 3,
-            "xp": 890,
-            "value": 10680,
-            "watch_seconds": 10680,
+            "xp": 915,
+            "value": 10980,
+            "watch_seconds": 10980,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -5942,6 +5984,20 @@
           },
           {
             "rank": 22,
+            "username": "serg8632",
+            "display_name": "serg8632",
+            "level": 3,
+            "xp": 915,
+            "value": 915,
+            "watch_seconds": 10980,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 23,
             "username": "artpavluk",
             "display_name": "artpavluk",
             "level": 3,
@@ -5955,7 +6011,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c27801ec-1919-4a4b-ab3b-8fa3bfd48aa4-profile_image-300x300.png"
           },
           {
-            "rank": 23,
+            "rank": 24,
             "username": "inyagin",
             "display_name": "inyagin",
             "level": 3,
@@ -5969,7 +6025,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef10213d-8bf8-410a-8aa3-cca83e898bb4-profile_image-300x300.png"
           },
           {
-            "rank": 24,
+            "rank": 25,
             "username": "kosha_alex4444",
             "display_name": "kosha_alex4444",
             "level": 3,
@@ -5983,7 +6039,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/70226b3d-d97a-4ee5-a8c2-12a7a03a23d8-profile_image-300x300.png"
           },
           {
-            "rank": 25,
+            "rank": 26,
             "username": "mrmalifik",
             "display_name": "mrmalifik",
             "level": 3,
@@ -5997,7 +6053,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/366a988b-e819-4c3b-a454-ae03bdc494c9-profile_image-300x300.jpeg"
           },
           {
-            "rank": 26,
+            "rank": 27,
             "username": "nubijca",
             "display_name": "nubijca",
             "level": 3,
@@ -6011,7 +6067,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/378a4f7c-8d41-4aa7-b5b9-77bf52577a7a-profile_image-300x300.png"
           },
           {
-            "rank": 27,
+            "rank": 28,
             "username": "perelomych",
             "display_name": "perelomych",
             "level": 3,
@@ -6025,7 +6081,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/aba131a5-d1d5-4164-abf0-0ce6e1e025d2-profile_image-300x300.png"
           },
           {
-            "rank": 28,
+            "rank": 29,
             "username": "rid192",
             "display_name": "rid192",
             "level": 3,
@@ -6039,7 +6095,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ae72838-4167-4655-bc33-b30c5f5b21bd-profile_image-300x300.png"
           },
           {
-            "rank": 29,
+            "rank": 30,
             "username": "secutanaka",
             "display_name": "secutanaka",
             "level": 3,
@@ -6053,7 +6109,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3187d55d-5ee2-4ad5-9a65-37e6ea077815-profile_image-300x300.png"
           },
           {
-            "rank": 30,
+            "rank": 31,
             "username": "serga1122",
             "display_name": "serga1122",
             "level": 3,
@@ -6067,7 +6123,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
           },
           {
-            "rank": 31,
+            "rank": 32,
             "username": "smetanistaya",
             "display_name": "smetanistaya",
             "level": 3,
@@ -6079,20 +6135,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1db32edc-e832-4500-8f95-298e0fef2973-profile_image-300x300.png"
-          },
-          {
-            "rank": 32,
-            "username": "serg8632",
-            "display_name": "serg8632",
-            "level": 3,
-            "xp": 890,
-            "value": 890,
-            "watch_seconds": 10680,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": null
           },
           {
             "rank": 33,
@@ -7412,6 +7454,20 @@
           },
           {
             "rank": 127,
+            "username": "qzack",
+            "display_name": "Qzack",
+            "level": 0,
+            "xp": 10,
+            "value": 10,
+            "watch_seconds": 120,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 128,
             "username": "spacedreadnought",
             "display_name": "spacedreadnought",
             "level": 0,
@@ -7425,7 +7481,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1de79abd-c67d-4703-8168-195a6f670bff-profile_image-300x300.png"
           },
           {
-            "rank": 128,
+            "rank": 129,
             "username": "00candyy",
             "display_name": "00Candyy",
             "level": 0,
@@ -7439,7 +7495,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3758051f-6da9-483d-9fea-754b5c913193-profile_image-300x300.png"
           },
           {
-            "rank": 129,
+            "rank": 130,
             "username": "amirmxr",
             "display_name": "amirmxr",
             "level": 0,
@@ -7453,7 +7509,7 @@
             "avatar": null
           },
           {
-            "rank": 130,
+            "rank": 131,
             "username": "epic_mirage489",
             "display_name": "epic_mirage489",
             "level": 0,
@@ -7764,6 +7820,20 @@
           },
           {
             "rank": 22,
+            "username": "serg8632",
+            "display_name": "serg8632",
+            "level": 3,
+            "xp": 915,
+            "value": 10980,
+            "watch_seconds": 10980,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 23,
             "username": "artpavluk",
             "display_name": "artpavluk",
             "level": 3,
@@ -7777,7 +7847,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c27801ec-1919-4a4b-ab3b-8fa3bfd48aa4-profile_image-300x300.png"
           },
           {
-            "rank": 23,
+            "rank": 24,
             "username": "inyagin",
             "display_name": "inyagin",
             "level": 3,
@@ -7791,7 +7861,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef10213d-8bf8-410a-8aa3-cca83e898bb4-profile_image-300x300.png"
           },
           {
-            "rank": 24,
+            "rank": 25,
             "username": "kosha_alex4444",
             "display_name": "kosha_alex4444",
             "level": 3,
@@ -7805,7 +7875,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/70226b3d-d97a-4ee5-a8c2-12a7a03a23d8-profile_image-300x300.png"
           },
           {
-            "rank": 25,
+            "rank": 26,
             "username": "mrmalifik",
             "display_name": "mrmalifik",
             "level": 3,
@@ -7819,7 +7889,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/366a988b-e819-4c3b-a454-ae03bdc494c9-profile_image-300x300.jpeg"
           },
           {
-            "rank": 26,
+            "rank": 27,
             "username": "nubijca",
             "display_name": "nubijca",
             "level": 3,
@@ -7833,7 +7903,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/378a4f7c-8d41-4aa7-b5b9-77bf52577a7a-profile_image-300x300.png"
           },
           {
-            "rank": 27,
+            "rank": 28,
             "username": "perelomych",
             "display_name": "perelomych",
             "level": 3,
@@ -7847,7 +7917,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/aba131a5-d1d5-4164-abf0-0ce6e1e025d2-profile_image-300x300.png"
           },
           {
-            "rank": 28,
+            "rank": 29,
             "username": "rid192",
             "display_name": "rid192",
             "level": 3,
@@ -7861,7 +7931,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ae72838-4167-4655-bc33-b30c5f5b21bd-profile_image-300x300.png"
           },
           {
-            "rank": 29,
+            "rank": 30,
             "username": "secutanaka",
             "display_name": "secutanaka",
             "level": 3,
@@ -7875,7 +7945,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3187d55d-5ee2-4ad5-9a65-37e6ea077815-profile_image-300x300.png"
           },
           {
-            "rank": 30,
+            "rank": 31,
             "username": "serga1122",
             "display_name": "serga1122",
             "level": 3,
@@ -7889,7 +7959,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
           },
           {
-            "rank": 31,
+            "rank": 32,
             "username": "smetanistaya",
             "display_name": "smetanistaya",
             "level": 3,
@@ -7901,20 +7971,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1db32edc-e832-4500-8f95-298e0fef2973-profile_image-300x300.png"
-          },
-          {
-            "rank": 32,
-            "username": "serg8632",
-            "display_name": "serg8632",
-            "level": 3,
-            "xp": 890,
-            "value": 10680,
-            "watch_seconds": 10680,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": null
           },
           {
             "rank": 33,
@@ -9234,6 +9290,20 @@
           },
           {
             "rank": 127,
+            "username": "qzack",
+            "display_name": "Qzack",
+            "level": 0,
+            "xp": 10,
+            "value": 120,
+            "watch_seconds": 120,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 128,
             "username": "spacedreadnought",
             "display_name": "spacedreadnought",
             "level": 0,
@@ -9247,7 +9317,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1de79abd-c67d-4703-8168-195a6f670bff-profile_image-300x300.png"
           },
           {
-            "rank": 128,
+            "rank": 129,
             "username": "00candyy",
             "display_name": "00Candyy",
             "level": 0,
@@ -9261,7 +9331,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3758051f-6da9-483d-9fea-754b5c913193-profile_image-300x300.png"
           },
           {
-            "rank": 129,
+            "rank": 130,
             "username": "amirmxr",
             "display_name": "amirmxr",
             "level": 0,
@@ -9927,9 +9997,9 @@
             "username": "serg8632",
             "display_name": "serg8632",
             "level": 3,
-            "xp": 890,
+            "xp": 915,
             "value": 1,
-            "watch_seconds": 10680,
+            "watch_seconds": 10980,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -10190,6 +10260,20 @@
           },
           {
             "rank": 45,
+            "username": "qzack",
+            "display_name": "Qzack",
+            "level": 0,
+            "xp": 10,
+            "value": 1,
+            "watch_seconds": 120,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 46,
             "username": "spacedreadnought",
             "display_name": "spacedreadnought",
             "level": 0,
@@ -10203,7 +10287,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1de79abd-c67d-4703-8168-195a6f670bff-profile_image-300x300.png"
           },
           {
-            "rank": 46,
+            "rank": 47,
             "username": "00candyy",
             "display_name": "00Candyy",
             "level": 0,
@@ -10217,7 +10301,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3758051f-6da9-483d-9fea-754b5c913193-profile_image-300x300.png"
           },
           {
-            "rank": 47,
+            "rank": 48,
             "username": "amirmxr",
             "display_name": "amirmxr",
             "level": 0,
@@ -15939,18 +16023,40 @@
       "username": "serg8632",
       "display_name": "serg8632",
       "level": 3,
-      "xp": 890,
+      "xp": 915,
       "current_level_xp": 600,
       "next_level_xp": 1000,
-      "xp_to_next": 110,
-      "progress": 0.725,
-      "watch_seconds": 10680,
+      "xp_to_next": 85,
+      "progress": 0.7875,
+      "watch_seconds": 10980,
       "messages": 0,
       "visits": 1,
       "clips": 0,
       "raids": 0,
-      "last_seen": "2026-09-24T02:49:00.155980+00:00",
+      "last_seen": "2026-09-24T02:54:07.071419+00:00",
       "last_visit_at": "2026-09-23T23:50:47.709874+00:00",
+      "is_followed": false,
+      "is_subscriber": false,
+      "is_moderator": false,
+      "is_vip": false,
+      "avatar": null
+    },
+    "qzack": {
+      "username": "qzack",
+      "display_name": "Qzack",
+      "level": 0,
+      "xp": 10,
+      "current_level_xp": 0,
+      "next_level_xp": 100,
+      "xp_to_next": 90,
+      "progress": 0.1,
+      "watch_seconds": 120,
+      "messages": 0,
+      "visits": 1,
+      "clips": 0,
+      "raids": 0,
+      "last_seen": "2026-09-24T02:54:07.071227+00:00",
+      "last_visit_at": "2026-09-24T02:53:08.410701+00:00",
       "is_followed": false,
       "is_subscriber": false,
       "is_moderator": false,
