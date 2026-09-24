@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T01:33:46.633782+00:00",
+  "updated_at": "2026-09-24T01:38:50.956936+00:00",
   "count": 260,
   "leaderboards": {
     "level": [
@@ -524,6 +524,20 @@
       },
       {
         "rank": 38,
+        "username": "serg8632",
+        "display_name": "serg8632",
+        "level": 2,
+        "xp": 540,
+        "value": 540,
+        "watch_seconds": 6480,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
+      },
+      {
+        "rank": 39,
         "username": "artur_knight_",
         "display_name": "artur_knight_",
         "level": 2,
@@ -537,7 +551,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/03cb3cc3-6342-4147-a0ce-8c5dd31d223f-profile_image-300x300.png"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "username": "goodoldoldschool",
         "display_name": "goodoldoldschool",
         "level": 2,
@@ -551,7 +565,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73dccbcb-fbbb-4310-b36e-cc2b3a9efd41-profile_image-300x300.png"
       },
       {
-        "rank": 40,
+        "rank": 41,
         "username": "sueeet4",
         "display_name": "sueeet4",
         "level": 2,
@@ -563,20 +577,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
-      },
-      {
-        "rank": 41,
-        "username": "serg8632",
-        "display_name": "serg8632",
-        "level": 2,
-        "xp": 515,
-        "value": 515,
-        "watch_seconds": 6180,
-        "messages": 0,
-        "visits": 1,
-        "clips": 0,
-        "raids": 0,
-        "avatar": null
       },
       {
         "rank": 42,
@@ -2346,6 +2346,20 @@
       },
       {
         "rank": 38,
+        "username": "serg8632",
+        "display_name": "serg8632",
+        "level": 2,
+        "xp": 540,
+        "value": 6480,
+        "watch_seconds": 6480,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
+      },
+      {
+        "rank": 39,
         "username": "artur_knight_",
         "display_name": "artur_knight_",
         "level": 2,
@@ -2359,7 +2373,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/03cb3cc3-6342-4147-a0ce-8c5dd31d223f-profile_image-300x300.png"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "username": "goodoldoldschool",
         "display_name": "goodoldoldschool",
         "level": 2,
@@ -2371,20 +2385,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73dccbcb-fbbb-4310-b36e-cc2b3a9efd41-profile_image-300x300.png"
-      },
-      {
-        "rank": 40,
-        "username": "serg8632",
-        "display_name": "serg8632",
-        "level": 2,
-        "xp": 515,
-        "value": 6180,
-        "watch_seconds": 6180,
-        "messages": 0,
-        "visits": 1,
-        "clips": 0,
-        "raids": 0,
-        "avatar": null
       },
       {
         "rank": 41,
@@ -4310,6 +4310,20 @@
       },
       {
         "rank": 28,
+        "username": "serg8632",
+        "display_name": "serg8632",
+        "level": 2,
+        "xp": 540,
+        "value": 1,
+        "watch_seconds": 6480,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
+      },
+      {
+        "rank": 29,
         "username": "sueeet4",
         "display_name": "sueeet4",
         "level": 2,
@@ -4321,20 +4335,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
-      },
-      {
-        "rank": 29,
-        "username": "serg8632",
-        "display_name": "serg8632",
-        "level": 2,
-        "xp": 515,
-        "value": 1,
-        "watch_seconds": 6180,
-        "messages": 0,
-        "visits": 1,
-        "clips": 0,
-        "raids": 0,
-        "avatar": null
       },
       {
         "rank": 30,
@@ -4615,9 +4615,9 @@
             "username": "serg8632",
             "display_name": "serg8632",
             "level": 2,
-            "xp": 515,
-            "value": 515,
-            "watch_seconds": 6180,
+            "xp": 540,
+            "value": 540,
+            "watch_seconds": 6480,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -4757,9 +4757,9 @@
             "username": "serg8632",
             "display_name": "serg8632",
             "level": 2,
-            "xp": 515,
-            "value": 6180,
-            "watch_seconds": 6180,
+            "xp": 540,
+            "value": 6480,
+            "watch_seconds": 6480,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -5144,6 +5144,20 @@
           },
           {
             "rank": 6,
+            "username": "serg8632",
+            "display_name": "serg8632",
+            "level": 2,
+            "xp": 540,
+            "value": 540,
+            "watch_seconds": 6480,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 7,
             "username": "sueeet4",
             "display_name": "sueeet4",
             "level": 2,
@@ -5155,20 +5169,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
-          },
-          {
-            "rank": 7,
-            "username": "serg8632",
-            "display_name": "serg8632",
-            "level": 2,
-            "xp": 515,
-            "value": 515,
-            "watch_seconds": 6180,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": null
           },
           {
             "rank": 8,
@@ -5289,9 +5289,9 @@
             "username": "serg8632",
             "display_name": "serg8632",
             "level": 2,
-            "xp": 515,
-            "value": 6180,
-            "watch_seconds": 6180,
+            "xp": 540,
+            "value": 6480,
+            "watch_seconds": 6480,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -6166,6 +6166,20 @@
           },
           {
             "rank": 38,
+            "username": "serg8632",
+            "display_name": "serg8632",
+            "level": 2,
+            "xp": 540,
+            "value": 540,
+            "watch_seconds": 6480,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 39,
             "username": "artur_knight_",
             "display_name": "artur_knight_",
             "level": 2,
@@ -6179,7 +6193,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/03cb3cc3-6342-4147-a0ce-8c5dd31d223f-profile_image-300x300.png"
           },
           {
-            "rank": 39,
+            "rank": 40,
             "username": "goodoldoldschool",
             "display_name": "goodoldoldschool",
             "level": 2,
@@ -6193,7 +6207,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73dccbcb-fbbb-4310-b36e-cc2b3a9efd41-profile_image-300x300.png"
           },
           {
-            "rank": 40,
+            "rank": 41,
             "username": "sueeet4",
             "display_name": "sueeet4",
             "level": 2,
@@ -6205,20 +6219,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
-          },
-          {
-            "rank": 41,
-            "username": "serg8632",
-            "display_name": "serg8632",
-            "level": 2,
-            "xp": 515,
-            "value": 515,
-            "watch_seconds": 6180,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": null
           },
           {
             "rank": 42,
@@ -7988,6 +7988,20 @@
           },
           {
             "rank": 38,
+            "username": "serg8632",
+            "display_name": "serg8632",
+            "level": 2,
+            "xp": 540,
+            "value": 6480,
+            "watch_seconds": 6480,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 39,
             "username": "artur_knight_",
             "display_name": "artur_knight_",
             "level": 2,
@@ -8001,7 +8015,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/03cb3cc3-6342-4147-a0ce-8c5dd31d223f-profile_image-300x300.png"
           },
           {
-            "rank": 39,
+            "rank": 40,
             "username": "goodoldoldschool",
             "display_name": "goodoldoldschool",
             "level": 2,
@@ -8013,20 +8027,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73dccbcb-fbbb-4310-b36e-cc2b3a9efd41-profile_image-300x300.png"
-          },
-          {
-            "rank": 40,
-            "username": "serg8632",
-            "display_name": "serg8632",
-            "level": 2,
-            "xp": 515,
-            "value": 6180,
-            "watch_seconds": 6180,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": null
           },
           {
             "rank": 41,
@@ -9952,6 +9952,20 @@
           },
           {
             "rank": 28,
+            "username": "serg8632",
+            "display_name": "serg8632",
+            "level": 2,
+            "xp": 540,
+            "value": 1,
+            "watch_seconds": 6480,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 29,
             "username": "sueeet4",
             "display_name": "sueeet4",
             "level": 2,
@@ -9963,20 +9977,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
-          },
-          {
-            "rank": 29,
-            "username": "serg8632",
-            "display_name": "serg8632",
-            "level": 2,
-            "xp": 515,
-            "value": 1,
-            "watch_seconds": 6180,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": null
           },
           {
             "rank": 30,
@@ -15939,17 +15939,17 @@
       "username": "serg8632",
       "display_name": "serg8632",
       "level": 2,
-      "xp": 515,
+      "xp": 540,
       "current_level_xp": 300,
       "next_level_xp": 600,
-      "xp_to_next": 85,
-      "progress": 0.7166666666666667,
-      "watch_seconds": 6180,
+      "xp_to_next": 60,
+      "progress": 0.8,
+      "watch_seconds": 6480,
       "messages": 0,
       "visits": 1,
       "clips": 0,
       "raids": 0,
-      "last_seen": "2026-09-24T01:32:54.364787+00:00",
+      "last_seen": "2026-09-24T01:37:54.696253+00:00",
       "last_visit_at": "2026-09-23T23:50:47.709874+00:00",
       "is_followed": false,
       "is_subscriber": false,
