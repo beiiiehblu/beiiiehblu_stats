@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T08:21:08.923849+00:00",
+  "updated_at": "2026-09-24T08:26:12.367599+00:00",
   "count": 267,
   "leaderboards": {
     "level": [
@@ -496,6 +496,20 @@
       },
       {
         "rank": 36,
+        "username": "makcum45_2",
+        "display_name": "makcum45_2",
+        "level": 3,
+        "xp": 633,
+        "value": 633,
+        "watch_seconds": 7560,
+        "messages": 3,
+        "visits": 2,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
+      },
+      {
+        "rank": 37,
         "username": "valeron4iktop_",
         "display_name": "valeron4iktop_",
         "level": 3,
@@ -507,20 +521,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
-      },
-      {
-        "rank": 37,
-        "username": "makcum45_2",
-        "display_name": "makcum45_2",
-        "level": 3,
-        "xp": 606,
-        "value": 606,
-        "watch_seconds": 7260,
-        "messages": 1,
-        "visits": 2,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
       },
       {
         "rank": 38,
@@ -2416,6 +2416,20 @@
       },
       {
         "rank": 36,
+        "username": "makcum45_2",
+        "display_name": "makcum45_2",
+        "level": 3,
+        "xp": 633,
+        "value": 7560,
+        "watch_seconds": 7560,
+        "messages": 3,
+        "visits": 2,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
+      },
+      {
+        "rank": 37,
         "username": "valeron4iktop_",
         "display_name": "valeron4iktop_",
         "level": 3,
@@ -2427,20 +2441,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
-      },
-      {
-        "rank": 37,
-        "username": "makcum45_2",
-        "display_name": "makcum45_2",
-        "level": 3,
-        "xp": 606,
-        "value": 7260,
-        "watch_seconds": 7260,
-        "messages": 1,
-        "visits": 2,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
       },
       {
         "rank": 38,
@@ -4070,6 +4070,20 @@
       },
       {
         "rank": 18,
+        "username": "makcum45_2",
+        "display_name": "makcum45_2",
+        "level": 3,
+        "xp": 633,
+        "value": 3,
+        "watch_seconds": 7560,
+        "messages": 3,
+        "visits": 2,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
+      },
+      {
+        "rank": 19,
         "username": "cjlok_chapaev",
         "display_name": "cjlok_chapaev",
         "level": 2,
@@ -4083,7 +4097,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/07c50fa5-c608-4245-89c7-467bc64f0a17-profile_image-300x300.png"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "username": "zuvelia",
         "display_name": "zuvelia",
         "level": 2,
@@ -4095,20 +4109,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a47d3a-e3e7-4e4c-8e0f-255137e405a0-profile_image-300x300.png"
-      },
-      {
-        "rank": 20,
-        "username": "makcum45_2",
-        "display_name": "makcum45_2",
-        "level": 3,
-        "xp": 606,
-        "value": 1,
-        "watch_seconds": 7260,
-        "messages": 1,
-        "visits": 2,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
       },
       {
         "rank": 21,
@@ -4411,10 +4411,10 @@
         "username": "makcum45_2",
         "display_name": "makcum45_2",
         "level": 3,
-        "xp": 606,
+        "xp": 633,
         "value": 2,
-        "watch_seconds": 7260,
-        "messages": 1,
+        "watch_seconds": 7560,
+        "messages": 3,
         "visits": 2,
         "clips": 0,
         "raids": 0,
@@ -5215,6 +5215,20 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8855a12d-ce6a-4373-9aae-fb38d27d87b9-profile_image-300x300.png"
+          },
+          {
+            "rank": 4,
+            "username": "makcum45_2",
+            "display_name": "makcum45_2",
+            "level": 3,
+            "xp": 37,
+            "value": 2,
+            "watch_seconds": 420,
+            "messages": 2,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
           }
         ],
         "visits": [
@@ -6432,6 +6446,20 @@
           },
           {
             "rank": 36,
+            "username": "makcum45_2",
+            "display_name": "makcum45_2",
+            "level": 3,
+            "xp": 633,
+            "value": 633,
+            "watch_seconds": 7560,
+            "messages": 3,
+            "visits": 2,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
+          },
+          {
+            "rank": 37,
             "username": "valeron4iktop_",
             "display_name": "valeron4iktop_",
             "level": 3,
@@ -6443,20 +6471,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
-          },
-          {
-            "rank": 37,
-            "username": "makcum45_2",
-            "display_name": "makcum45_2",
-            "level": 3,
-            "xp": 606,
-            "value": 606,
-            "watch_seconds": 7260,
-            "messages": 1,
-            "visits": 2,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
           },
           {
             "rank": 38,
@@ -8352,6 +8366,20 @@
           },
           {
             "rank": 36,
+            "username": "makcum45_2",
+            "display_name": "makcum45_2",
+            "level": 3,
+            "xp": 633,
+            "value": 7560,
+            "watch_seconds": 7560,
+            "messages": 3,
+            "visits": 2,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
+          },
+          {
+            "rank": 37,
             "username": "valeron4iktop_",
             "display_name": "valeron4iktop_",
             "level": 3,
@@ -8363,20 +8391,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
-          },
-          {
-            "rank": 37,
-            "username": "makcum45_2",
-            "display_name": "makcum45_2",
-            "level": 3,
-            "xp": 606,
-            "value": 7260,
-            "watch_seconds": 7260,
-            "messages": 1,
-            "visits": 2,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
           },
           {
             "rank": 38,
@@ -10006,6 +10020,20 @@
           },
           {
             "rank": 18,
+            "username": "makcum45_2",
+            "display_name": "makcum45_2",
+            "level": 3,
+            "xp": 633,
+            "value": 3,
+            "watch_seconds": 7560,
+            "messages": 3,
+            "visits": 2,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
+          },
+          {
+            "rank": 19,
             "username": "cjlok_chapaev",
             "display_name": "cjlok_chapaev",
             "level": 2,
@@ -10019,7 +10047,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/07c50fa5-c608-4245-89c7-467bc64f0a17-profile_image-300x300.png"
           },
           {
-            "rank": 19,
+            "rank": 20,
             "username": "zuvelia",
             "display_name": "zuvelia",
             "level": 2,
@@ -10031,20 +10059,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a47d3a-e3e7-4e4c-8e0f-255137e405a0-profile_image-300x300.png"
-          },
-          {
-            "rank": 20,
-            "username": "makcum45_2",
-            "display_name": "makcum45_2",
-            "level": 3,
-            "xp": 606,
-            "value": 1,
-            "watch_seconds": 7260,
-            "messages": 1,
-            "visits": 2,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
           },
           {
             "rank": 21,
@@ -10347,10 +10361,10 @@
             "username": "makcum45_2",
             "display_name": "makcum45_2",
             "level": 3,
-            "xp": 606,
+            "xp": 633,
             "value": 2,
-            "watch_seconds": 7260,
-            "messages": 1,
+            "watch_seconds": 7560,
+            "messages": 3,
             "visits": 2,
             "clips": 0,
             "raids": 0,
@@ -11533,17 +11547,17 @@
       "username": "makcum45_2",
       "display_name": "makcum45_2",
       "level": 3,
-      "xp": 606,
+      "xp": 633,
       "current_level_xp": 600,
       "next_level_xp": 1000,
-      "xp_to_next": 394,
-      "progress": 0.015,
-      "watch_seconds": 7260,
-      "messages": 1,
+      "xp_to_next": 367,
+      "progress": 0.0825,
+      "watch_seconds": 7560,
+      "messages": 3,
       "visits": 2,
       "clips": 0,
       "raids": 0,
-      "last_seen": "2026-09-24T08:21:02.223918+00:00",
+      "last_seen": "2026-09-24T08:26:03.139773+00:00",
       "last_visit_at": "2026-09-24T08:20:01.995362+00:00",
       "is_followed": true,
       "is_subscriber": false,
