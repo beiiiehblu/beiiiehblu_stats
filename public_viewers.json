@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-10-03T22:43:07.156112+00:00",
-  "count": 272,
+  "updated_at": "2026-10-03T23:18:15.036560+00:00",
+  "count": 273,
   "leaderboards": {
     "level": [
       {
@@ -2008,6 +2008,20 @@
       },
       {
         "rank": 144,
+        "username": "nevian199",
+        "display_name": "nevian199",
+        "level": 0,
+        "xp": 5,
+        "value": 5,
+        "watch_seconds": 60,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
+      },
+      {
+        "rank": 145,
         "username": "epic_mirage489",
         "display_name": "epic_mirage489",
         "level": 0,
@@ -4023,6 +4037,20 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b69ce539-0f44-4d01-9e46-023a779a9a77-profile_image-300x300.png"
+      },
+      {
+        "rank": 144,
+        "username": "nevian199",
+        "display_name": "nevian199",
+        "level": 0,
+        "xp": 5,
+        "value": 60,
+        "watch_seconds": 60,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
       }
     ],
     "messages": [
@@ -5203,6 +5231,20 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b69ce539-0f44-4d01-9e46-023a779a9a77-profile_image-300x300.png"
+      },
+      {
+        "rank": 62,
+        "username": "nevian199",
+        "display_name": "nevian199",
+        "level": 0,
+        "xp": 5,
+        "value": 1,
+        "watch_seconds": 60,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": null
       }
     ],
     "clips": [],
@@ -5267,6 +5309,20 @@
             "clips": 0,
             "raids": 0,
             "avatar": null
+          },
+          {
+            "rank": 5,
+            "username": "nevian199",
+            "display_name": "nevian199",
+            "level": 0,
+            "xp": 5,
+            "value": 5,
+            "watch_seconds": 60,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
           }
         ],
         "watchtime": [
@@ -5322,6 +5378,20 @@
             "watch_seconds": 480,
             "messages": 0,
             "visits": 4,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 5,
+            "username": "nevian199",
+            "display_name": "nevian199",
+            "level": 0,
+            "xp": 5,
+            "value": 60,
+            "watch_seconds": 60,
+            "messages": 0,
+            "visits": 1,
             "clips": 0,
             "raids": 0,
             "avatar": null
@@ -5427,6 +5497,20 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/142ffb8e-1385-4c5e-9fb8-04e0bdb35f76-profile_image-300x300.jpeg"
+          },
+          {
+            "rank": 5,
+            "username": "nevian199",
+            "display_name": "nevian199",
+            "level": 0,
+            "xp": 5,
+            "value": 1,
+            "watch_seconds": 60,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
           }
         ],
         "clips": [],
@@ -8014,6 +8098,20 @@
           },
           {
             "rank": 144,
+            "username": "nevian199",
+            "display_name": "nevian199",
+            "level": 0,
+            "xp": 5,
+            "value": 5,
+            "watch_seconds": 60,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
+          },
+          {
+            "rank": 145,
             "username": "epic_mirage489",
             "display_name": "epic_mirage489",
             "level": 0,
@@ -10029,6 +10127,20 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b69ce539-0f44-4d01-9e46-023a779a9a77-profile_image-300x300.png"
+          },
+          {
+            "rank": 144,
+            "username": "nevian199",
+            "display_name": "nevian199",
+            "level": 0,
+            "xp": 5,
+            "value": 60,
+            "watch_seconds": 60,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
           }
         ],
         "messages": [
@@ -11209,6 +11321,20 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b69ce539-0f44-4d01-9e46-023a779a9a77-profile_image-300x300.png"
+          },
+          {
+            "rank": 62,
+            "username": "nevian199",
+            "display_name": "nevian199",
+            "level": 0,
+            "xp": 5,
+            "value": 1,
+            "watch_seconds": 60,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": null
           }
         ],
         "clips": [],
@@ -17195,6 +17321,28 @@
       "raids": 0,
       "last_seen": "2026-10-03T22:28:47.869873+00:00",
       "last_visit_at": "2026-10-03T22:26:47.753703+00:00",
+      "is_followed": false,
+      "is_subscriber": false,
+      "is_moderator": false,
+      "is_vip": false,
+      "avatar": null
+    },
+    "nevian199": {
+      "username": "nevian199",
+      "display_name": "nevian199",
+      "level": 0,
+      "xp": 5,
+      "current_level_xp": 0,
+      "next_level_xp": 100,
+      "xp_to_next": 95,
+      "progress": 0.05,
+      "watch_seconds": 60,
+      "messages": 0,
+      "visits": 1,
+      "clips": 0,
+      "raids": 0,
+      "last_seen": "2026-10-03T23:14:00.479976+00:00",
+      "last_visit_at": "2026-10-03T23:14:00.479947+00:00",
       "is_followed": false,
       "is_subscriber": false,
       "is_moderator": false,
