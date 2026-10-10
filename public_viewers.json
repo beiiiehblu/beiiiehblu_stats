@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-10T07:15:28.974009+00:00",
+  "updated_at": "2026-10-10T07:20:37.329349+00:00",
   "count": 288,
   "leaderboards": {
     "level": [
@@ -653,11 +653,11 @@
         "username": "arhimedcasterlay",
         "display_name": "ArhimedCasterlay",
         "level": 2,
-        "xp": 537,
-        "value": 537,
-        "watch_seconds": 6300,
+        "xp": 542,
+        "value": 542,
+        "watch_seconds": 6360,
         "messages": 12,
-        "visits": 6,
+        "visits": 7,
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
@@ -2906,6 +2906,20 @@
       },
       {
         "rank": 48,
+        "username": "arhimedcasterlay",
+        "display_name": "ArhimedCasterlay",
+        "level": 2,
+        "xp": 542,
+        "value": 6360,
+        "watch_seconds": 6360,
+        "messages": 12,
+        "visits": 7,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
+      },
+      {
+        "rank": 49,
         "username": "goodoldoldschool",
         "display_name": "goodoldoldschool",
         "level": 2,
@@ -2917,20 +2931,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73dccbcb-fbbb-4310-b36e-cc2b3a9efd41-profile_image-300x300.png"
-      },
-      {
-        "rank": 49,
-        "username": "arhimedcasterlay",
-        "display_name": "ArhimedCasterlay",
-        "level": 2,
-        "xp": 537,
-        "value": 6300,
-        "watch_seconds": 6300,
-        "messages": 12,
-        "visits": 6,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
       },
       {
         "rank": 50,
@@ -4661,11 +4661,11 @@
         "username": "arhimedcasterlay",
         "display_name": "ArhimedCasterlay",
         "level": 2,
-        "xp": 537,
+        "xp": 542,
         "value": 12,
-        "watch_seconds": 6300,
+        "watch_seconds": 6360,
         "messages": 12,
-        "visits": 6,
+        "visits": 7,
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
@@ -4884,6 +4884,20 @@
       },
       {
         "rank": 5,
+        "username": "arhimedcasterlay",
+        "display_name": "ArhimedCasterlay",
+        "level": 2,
+        "xp": 542,
+        "value": 7,
+        "watch_seconds": 6360,
+        "messages": 12,
+        "visits": 7,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
+      },
+      {
+        "rank": 6,
         "username": "dr_drunkenshte1n",
         "display_name": "dr_drunkenshte1n",
         "level": 2,
@@ -4897,7 +4911,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e6066ef-b8e9-45aa-a4d6-8fad18da588b-profile_image-300x300.png"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "username": "u2vr",
         "display_name": "U2VR",
         "level": 4,
@@ -4909,20 +4923,6 @@
         "clips": 0,
         "raids": 1,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8855a12d-ce6a-4373-9aae-fb38d27d87b9-profile_image-300x300.png"
-      },
-      {
-        "rank": 7,
-        "username": "arhimedcasterlay",
-        "display_name": "ArhimedCasterlay",
-        "level": 2,
-        "xp": 537,
-        "value": 6,
-        "watch_seconds": 6300,
-        "messages": 12,
-        "visits": 6,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
       },
       {
         "rank": 8,
@@ -6369,6 +6369,20 @@
           },
           {
             "rank": 7,
+            "username": "arhimedcasterlay",
+            "display_name": "ArhimedCasterlay",
+            "level": 2,
+            "xp": 5,
+            "value": 1,
+            "watch_seconds": 60,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
+          },
+          {
+            "rank": 8,
             "username": "father_lis",
             "display_name": "Father_lis",
             "level": 5,
@@ -6382,7 +6396,7 @@
             "avatar": null
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "nayk_uropb",
             "display_name": "nayk_uropb",
             "level": 6,
@@ -6396,27 +6410,13 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73fe7b4b-77c8-40bd-910c-ac8484fcb4c8-profile_image-300x300.png"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "username": "antos_",
             "display_name": "antos_",
             "level": 3,
             "xp": 750,
             "value": 1,
             "watch_seconds": 9000,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": null
-          },
-          {
-            "rank": 10,
-            "username": "elionxardes",
-            "display_name": "ElionXardes",
-            "level": 4,
-            "xp": 1190,
-            "value": 1,
-            "watch_seconds": 14280,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -6916,6 +6916,20 @@
           },
           {
             "rank": 4,
+            "username": "arhimedcasterlay",
+            "display_name": "ArhimedCasterlay",
+            "level": 2,
+            "xp": 542,
+            "value": 7,
+            "watch_seconds": 6360,
+            "messages": 12,
+            "visits": 7,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
+          },
+          {
+            "rank": 5,
             "username": "dr_drunkenshte1n",
             "display_name": "dr_drunkenshte1n",
             "level": 2,
@@ -6927,20 +6941,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e6066ef-b8e9-45aa-a4d6-8fad18da588b-profile_image-300x300.png"
-          },
-          {
-            "rank": 5,
-            "username": "arhimedcasterlay",
-            "display_name": "ArhimedCasterlay",
-            "level": 2,
-            "xp": 537,
-            "value": 6,
-            "watch_seconds": 6300,
-            "messages": 12,
-            "visits": 6,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
           },
           {
             "rank": 6,
@@ -7684,11 +7684,11 @@
             "username": "arhimedcasterlay",
             "display_name": "ArhimedCasterlay",
             "level": 2,
-            "xp": 537,
-            "value": 537,
-            "watch_seconds": 6300,
+            "xp": 542,
+            "value": 542,
+            "watch_seconds": 6360,
             "messages": 12,
-            "visits": 6,
+            "visits": 7,
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
@@ -9937,6 +9937,20 @@
           },
           {
             "rank": 48,
+            "username": "arhimedcasterlay",
+            "display_name": "ArhimedCasterlay",
+            "level": 2,
+            "xp": 542,
+            "value": 6360,
+            "watch_seconds": 6360,
+            "messages": 12,
+            "visits": 7,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
+          },
+          {
+            "rank": 49,
             "username": "goodoldoldschool",
             "display_name": "goodoldoldschool",
             "level": 2,
@@ -9948,20 +9962,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73dccbcb-fbbb-4310-b36e-cc2b3a9efd41-profile_image-300x300.png"
-          },
-          {
-            "rank": 49,
-            "username": "arhimedcasterlay",
-            "display_name": "ArhimedCasterlay",
-            "level": 2,
-            "xp": 537,
-            "value": 6300,
-            "watch_seconds": 6300,
-            "messages": 12,
-            "visits": 6,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
           },
           {
             "rank": 50,
@@ -11692,11 +11692,11 @@
             "username": "arhimedcasterlay",
             "display_name": "ArhimedCasterlay",
             "level": 2,
-            "xp": 537,
+            "xp": 542,
             "value": 12,
-            "watch_seconds": 6300,
+            "watch_seconds": 6360,
             "messages": 12,
-            "visits": 6,
+            "visits": 7,
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
@@ -11915,6 +11915,20 @@
           },
           {
             "rank": 5,
+            "username": "arhimedcasterlay",
+            "display_name": "ArhimedCasterlay",
+            "level": 2,
+            "xp": 542,
+            "value": 7,
+            "watch_seconds": 6360,
+            "messages": 12,
+            "visits": 7,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
+          },
+          {
+            "rank": 6,
             "username": "dr_drunkenshte1n",
             "display_name": "dr_drunkenshte1n",
             "level": 2,
@@ -11928,7 +11942,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e6066ef-b8e9-45aa-a4d6-8fad18da588b-profile_image-300x300.png"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "u2vr",
             "display_name": "U2VR",
             "level": 4,
@@ -11940,20 +11954,6 @@
             "clips": 0,
             "raids": 1,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8855a12d-ce6a-4373-9aae-fb38d27d87b9-profile_image-300x300.png"
-          },
-          {
-            "rank": 7,
-            "username": "arhimedcasterlay",
-            "display_name": "ArhimedCasterlay",
-            "level": 2,
-            "xp": 537,
-            "value": 6,
-            "watch_seconds": 6300,
-            "messages": 12,
-            "visits": 6,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
           },
           {
             "rank": 8,
@@ -18219,18 +18219,18 @@
       "username": "arhimedcasterlay",
       "display_name": "ArhimedCasterlay",
       "level": 2,
-      "xp": 537,
+      "xp": 542,
       "current_level_xp": 300,
       "next_level_xp": 600,
-      "xp_to_next": 63,
-      "progress": 0.79,
-      "watch_seconds": 6300,
+      "xp_to_next": 58,
+      "progress": 0.8066666666666666,
+      "watch_seconds": 6360,
       "messages": 12,
-      "visits": 6,
+      "visits": 7,
       "clips": 0,
       "raids": 0,
-      "last_seen": "2026-09-24T22:23:33.868341+00:00",
-      "last_visit_at": "2026-09-24T22:12:31.585697+00:00",
+      "last_seen": "2026-10-10T07:19:46.799994+00:00",
+      "last_visit_at": "2026-10-10T07:19:46.799964+00:00",
       "is_followed": false,
       "is_subscriber": false,
       "is_moderator": false,
