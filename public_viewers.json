@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T06:01:27.552353+00:00",
-  "count": 294,
+  "updated_at": "2026-10-28T06:06:33.094836+00:00",
+  "count": 295,
   "leaderboards": {
     "level": [
       {
@@ -2369,6 +2369,20 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
+      },
+      {
+        "rank": 170,
+        "username": "olumalekido",
+        "display_name": "olumalekido",
+        "level": 0,
+        "xp": 1,
+        "value": 1,
+        "watch_seconds": 0,
+        "messages": 1,
+        "visits": 0,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-300x300.png"
       }
     ],
     "watchtime": [
@@ -5117,6 +5131,20 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
+      },
+      {
+        "rank": 29,
+        "username": "olumalekido",
+        "display_name": "olumalekido",
+        "level": 0,
+        "xp": 1,
+        "value": 1,
+        "watch_seconds": 0,
+        "messages": 1,
+        "visits": 0,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-300x300.png"
       }
     ],
     "visits": [
@@ -6798,6 +6826,20 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
+          },
+          {
+            "rank": 9,
+            "username": "olumalekido",
+            "display_name": "olumalekido",
+            "level": 0,
+            "xp": 1,
+            "value": 1,
+            "watch_seconds": 0,
+            "messages": 1,
+            "visits": 0,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-300x300.png"
           }
         ],
         "visits": [
@@ -9946,6 +9988,20 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
+          },
+          {
+            "rank": 170,
+            "username": "olumalekido",
+            "display_name": "olumalekido",
+            "level": 0,
+            "xp": 1,
+            "value": 1,
+            "watch_seconds": 0,
+            "messages": 1,
+            "visits": 0,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-300x300.png"
           }
         ],
         "watchtime": [
@@ -12694,6 +12750,20 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
+          },
+          {
+            "rank": 29,
+            "username": "olumalekido",
+            "display_name": "olumalekido",
+            "level": 0,
+            "xp": 1,
+            "value": 1,
+            "watch_seconds": 0,
+            "messages": 1,
+            "visits": 0,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-300x300.png"
           }
         ],
         "visits": [
@@ -20446,6 +20516,28 @@
       "is_moderator": false,
       "is_vip": false,
       "avatar": null
+    },
+    "olumalekido": {
+      "username": "olumalekido",
+      "display_name": "olumalekido",
+      "level": 0,
+      "xp": 1,
+      "current_level_xp": 0,
+      "next_level_xp": 100,
+      "xp_to_next": 99,
+      "progress": 0.01,
+      "watch_seconds": 0,
+      "messages": 1,
+      "visits": 0,
+      "clips": 0,
+      "raids": 0,
+      "last_seen": "2026-10-28T06:04:06.301624+00:00",
+      "last_visit_at": null,
+      "is_followed": false,
+      "is_subscriber": false,
+      "is_moderator": false,
+      "is_vip": false,
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-300x300.png"
     }
   }
 }
