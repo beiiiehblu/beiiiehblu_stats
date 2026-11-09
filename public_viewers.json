@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T16:17:14.368378+00:00",
+  "updated_at": "2026-11-09T17:03:18.370751+00:00",
   "count": 302,
   "leaderboards": {
     "level": [
@@ -1682,7 +1682,7 @@
         "visits": 1,
         "clips": 0,
         "raids": 0,
-        "avatar": null
+        "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
       },
       {
         "rank": 121,
@@ -4162,7 +4162,7 @@
         "visits": 1,
         "clips": 0,
         "raids": 0,
-        "avatar": null
+        "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
       },
       {
         "rank": 121,
@@ -6280,7 +6280,7 @@
         "visits": 1,
         "clips": 0,
         "raids": 0,
-        "avatar": null
+        "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
       },
       {
         "rank": 67,
@@ -6835,7 +6835,7 @@
             "visits": 1,
             "clips": 0,
             "raids": 0,
-            "avatar": null
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
           }
         ],
         "watchtime": [
@@ -6921,7 +6921,7 @@
             "visits": 1,
             "clips": 0,
             "raids": 0,
-            "avatar": null
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
           },
           {
             "rank": 7,
@@ -7065,7 +7065,7 @@
             "visits": 1,
             "clips": 0,
             "raids": 0,
-            "avatar": null
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
           },
           {
             "rank": 7,
@@ -9370,7 +9370,7 @@
             "visits": 1,
             "clips": 0,
             "raids": 0,
-            "avatar": null
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
           },
           {
             "rank": 121,
@@ -11850,7 +11850,7 @@
             "visits": 1,
             "clips": 0,
             "raids": 0,
-            "avatar": null
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
           },
           {
             "rank": 121,
@@ -13968,7 +13968,7 @@
             "visits": 1,
             "clips": 0,
             "raids": 0,
-            "avatar": null
+            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
           },
           {
             "rank": 67,
@@ -14444,6 +14444,8 @@
       "last_visit_at": "2026-08-22T16:35:54.207466+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": true,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/07c50fa5-c608-4245-89c7-467bc64f0a17-profile_image-300x300.png"
@@ -14466,6 +14468,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": true,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -14488,6 +14492,8 @@
       "last_visit_at": "2026-08-22T19:39:34.463889+00:00",
       "is_followed": true,
       "is_subscriber": true,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": true,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b64ade1add51959-profile_image-300x300.jpeg"
@@ -14510,6 +14516,8 @@
       "last_visit_at": "2026-10-28T13:20:03.857473+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": true,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bc5c994-25d3-4cac-ac71-632524635444-profile_image-300x300.png"
@@ -14532,6 +14540,8 @@
       "last_visit_at": "2026-11-07T22:25:42.326419+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": true,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86a2e5c-4c11-4384-b0af-6b9c5e4e160f-profile_image-300x300.jpeg"
@@ -14554,6 +14564,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": true,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/34b15efc-ac6c-4ce9-b49f-12b81d968c3a-profile_image-300x300.jpeg"
@@ -14576,6 +14588,8 @@
       "last_visit_at": "2026-10-26T04:57:53.918705+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b7209fd-0450-4040-8ef6-2cae44fc3e81-profile_image-300x300.png"
@@ -14598,6 +14612,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png"
@@ -14620,6 +14636,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -14642,6 +14660,8 @@
       "last_visit_at": "2026-08-29T15:27:05.202266+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c67e570a-f69f-4308-b5e1-a77d06cdaa87-profile_image-300x300.jpeg"
@@ -14664,6 +14684,8 @@
       "last_visit_at": "2026-10-25T00:17:40.986979+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c8b0acaa-c5a8-4b8d-a37c-3f311481c0db-profile_image-300x300.png"
@@ -14686,6 +14708,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -14708,6 +14732,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
@@ -14730,6 +14756,8 @@
       "last_visit_at": "2026-10-03T18:06:39.478516+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/142ffb8e-1385-4c5e-9fb8-04e0bdb35f76-profile_image-300x300.jpeg"
@@ -14752,6 +14780,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
@@ -14774,6 +14804,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b5ee4f23-7d83-4175-865d-3c7d6a150108-profile_image-300x300.png"
@@ -14796,6 +14828,8 @@
       "last_visit_at": "2026-10-25T08:44:22.614854+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/24e9db02-f831-4c08-8231-628e7d5a59d3-profile_image-300x300.png"
@@ -14818,6 +14852,8 @@
       "last_visit_at": "2026-08-29T11:41:56.567327+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
@@ -14840,6 +14876,8 @@
       "last_visit_at": "2026-08-19T22:24:37.194490+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2af84f89-4476-4261-8392-5caf5280b40e-profile_image-300x300.png"
@@ -14862,6 +14900,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c27801ec-1919-4a4b-ab3b-8fa3bfd48aa4-profile_image-300x300.png"
@@ -14884,6 +14924,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef10213d-8bf8-410a-8aa3-cca83e898bb4-profile_image-300x300.png"
@@ -14906,6 +14948,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/70226b3d-d97a-4ee5-a8c2-12a7a03a23d8-profile_image-300x300.png"
@@ -14928,6 +14972,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/366a988b-e819-4c3b-a454-ae03bdc494c9-profile_image-300x300.jpeg"
@@ -14950,6 +14996,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/378a4f7c-8d41-4aa7-b5b9-77bf52577a7a-profile_image-300x300.png"
@@ -14972,6 +15020,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/aba131a5-d1d5-4164-abf0-0ce6e1e025d2-profile_image-300x300.png"
@@ -14994,6 +15044,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5ae72838-4167-4655-bc33-b30c5f5b21bd-profile_image-300x300.png"
@@ -15016,6 +15068,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3187d55d-5ee2-4ad5-9a65-37e6ea077815-profile_image-300x300.png"
@@ -15038,6 +15092,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
@@ -15060,6 +15116,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1db32edc-e832-4500-8f95-298e0fef2973-profile_image-300x300.png"
@@ -15082,6 +15140,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/aa3c21cd-c416-4e59-a828-a46d69bcff87-profile_image-300x300.png"
@@ -15104,6 +15164,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0240dd4e-cc95-4c17-b836-1b2b89bbbc05-profile_image-300x300.png"
@@ -15126,6 +15188,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -15148,6 +15212,8 @@
       "last_visit_at": "2026-09-24T08:20:01.995362+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/14d1d6fd-de9e-465c-83e4-343e6a39c93c-profile_image-300x300.jpeg"
@@ -15170,6 +15236,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e8d9bb56-064d-4dc1-be52-81e42030fe6c-profile_image-300x300.jpeg"
@@ -15192,6 +15260,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/03cb3cc3-6342-4147-a0ce-8c5dd31d223f-profile_image-300x300.png"
@@ -15214,6 +15284,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73dccbcb-fbbb-4310-b36e-cc2b3a9efd41-profile_image-300x300.png"
@@ -15236,6 +15308,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0e5c8687-946f-418f-ba02-7562f7af4dbe-profile_image-300x300.png"
@@ -15258,6 +15332,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": null
@@ -15280,6 +15356,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
@@ -15302,6 +15380,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/85b28928-e86d-40ef-b218-6a19dd6e2ab7-profile_image-300x300.png"
@@ -15324,6 +15404,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -15346,6 +15428,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f5daff93-de9a-4825-a9e0-ff83863f50e8-profile_image-300x300.png"
@@ -15368,6 +15452,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
@@ -15390,6 +15476,8 @@
       "last_visit_at": "2026-08-16T16:01:30.334830+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a47d3a-e3e7-4e4c-8e0f-255137e405a0-profile_image-300x300.png"
@@ -15412,6 +15500,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b0582ad-dbc3-45ea-a95f-723ec30a999b-profile_image-300x300.png"
@@ -15434,6 +15524,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3baf5873-2af1-4475-965d-26e3878b5e5a-profile_image-300x300.jpeg"
@@ -15456,6 +15548,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/492a7304-a25d-4693-9c4c-2ad89e717257-profile_image-300x300.jpeg"
@@ -15478,6 +15572,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/51b0350b-e0c0-410c-a0eb-7d891019a852-profile_image-300x300.png"
@@ -15500,6 +15596,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
@@ -15522,6 +15620,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/de800e26-98d9-47da-96d6-0e8025559205-profile_image-300x300.png"
@@ -15544,6 +15644,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d54d2b93-3039-4542-85f7-e1169400d298-profile_image-300x300.png"
@@ -15566,6 +15668,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73e33885-6c88-4406-be58-6992f23a2cd4-profile_image-300x300.png"
@@ -15588,6 +15692,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -15610,6 +15716,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c62a2a8-55aa-4580-820c-ec98c00ed7aa-profile_image-300x300.jpeg"
@@ -15632,6 +15740,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d2689d40-6822-4878-80ea-8bf41ae1c901-profile_image-300x300.png"
@@ -15654,6 +15764,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png"
@@ -15676,6 +15788,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -15698,6 +15812,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
@@ -15720,6 +15836,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
@@ -15742,6 +15860,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ca4eb2c-7c6e-4a15-9b38-9a2dff03f347-profile_image-300x300.png"
@@ -15764,6 +15884,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffe556e1-2312-405a-aadb-0199229114fb-profile_image-300x300.jpeg"
@@ -15786,6 +15908,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a6a20c55-9eb3-4ea5-9c7b-429b2282890f-profile_image-300x300.png"
@@ -15808,6 +15932,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/650a02ce-e9f3-4821-a71f-c2ca54dd5ee0-profile_image-300x300.png"
@@ -15830,6 +15956,8 @@
       "last_visit_at": "2026-10-25T06:14:01.171090+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/94d3bf07-858b-4934-a2f9-ec01adb199b2-profile_image-300x300.png"
@@ -15852,6 +15980,8 @@
       "last_visit_at": "2026-11-04T22:18:08.677996+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8855a12d-ce6a-4373-9aae-fb38d27d87b9-profile_image-300x300.png"
@@ -15874,6 +16004,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -15896,6 +16028,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/bcc50598-2a1c-4038-ab8a-3f68c4c865db-profile_image-300x300.png"
@@ -15918,6 +16052,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d8fc5c8-d2e5-4034-b3b4-d8dff27ef9b6-profile_image-300x300.jpeg"
@@ -15940,6 +16076,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -15962,6 +16100,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/939ef9f4-3b49-43cb-9261-e841221329a7-profile_image-300x300.png"
@@ -15984,6 +16124,8 @@
       "last_visit_at": "2026-10-24T23:21:31.653126+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -16006,6 +16148,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d214f825-86ef-4dcd-8e98-38d9931fd41a-profile_image-300x300.jpg"
@@ -16028,6 +16172,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f48e8489-4fe9-4936-8191-b4c5114a38f9-profile_image-300x300.png"
@@ -16050,6 +16196,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d563e7ae-88d9-462f-86a6-2e4b4bf1f305-profile_image-300x300.jpeg"
@@ -16072,6 +16220,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1da7121e-89bc-4b13-9942-e45a15094a08-profile_image-300x300.png"
@@ -16094,6 +16244,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/42358eaf-4be0-4713-841b-b7c1b1a6e392-profile_image-300x300.jpg"
@@ -16116,6 +16268,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6787a020-c499-44ea-853e-cc76d5517b83-profile_image-300x300.png"
@@ -16138,6 +16292,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2cbb12e6-a649-44f8-bab8-e22c16f9e662-profile_image-300x300.jpeg"
@@ -16160,6 +16316,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -16182,6 +16340,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png"
@@ -16204,6 +16364,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/921e32f2-2816-4dc6-8d20-39791a55eabf-profile_image-300x300.png"
@@ -16226,6 +16388,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/da9fbf0e-be82-4199-aeda-4ef192c8f389-profile_image-300x300.png"
@@ -16248,6 +16412,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png"
@@ -16270,6 +16436,8 @@
       "last_visit_at": "2026-09-24T04:09:18.264823+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/65440e67-c4d1-4a6f-8757-86714b53dc7f-profile_image-300x300.png"
@@ -16292,6 +16460,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/593511a4-424e-40c4-a2d0-780cb59cd6a7-profile_image-300x300.jpeg"
@@ -16314,6 +16484,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -16336,6 +16508,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3fca658-cfc8-4f9e-a52c-8e502a86b15a-profile_image-300x300.jpeg"
@@ -16358,6 +16532,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
@@ -16380,6 +16556,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0a1612fb-03e5-451d-905d-03f7beb743ee-profile_image-300x300.png"
@@ -16402,6 +16580,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5fccac4a-0bdf-4e45-ad31-c58d57d9e232-profile_image-300x300.png"
@@ -16424,6 +16604,8 @@
       "last_visit_at": "2026-09-13T22:53:30.364987+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7b42ee6-9e95-4d22-9d4a-27fb5d305441-profile_image-300x300.png"
@@ -16446,6 +16628,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/eae58d4e-49b1-44bd-b11f-54a3cea620be-profile_image-300x300.png"
@@ -16468,6 +16652,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -16490,6 +16676,8 @@
       "last_visit_at": "2026-10-25T10:50:58.922294+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c16c150-dc0e-4be6-a937-6442044b4df9-profile_image-300x300.png"
@@ -16512,6 +16700,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9df62fea-2412-40b7-b1f1-b9dbb6d57f62-profile_image-300x300.jpeg"
@@ -16534,6 +16724,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73d6c9fb-d71a-4c64-b98a-e85521b4709a-profile_image-300x300.png"
@@ -16556,6 +16748,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8da2d790-c0fa-4dce-8cc9-521557a7a2f6-profile_image-300x300.png"
@@ -16578,6 +16772,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd45272f-4304-4aee-9398-07d1144d43ca-profile_image-300x300.jpeg"
@@ -16600,6 +16796,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/00703473-6624-4cc5-87f3-2b44c01aa051-profile_image-300x300.png"
@@ -16622,6 +16820,8 @@
       "last_visit_at": "2026-09-23T21:48:39.193731+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
@@ -16644,6 +16844,8 @@
       "last_visit_at": "2026-09-12T22:07:44.759781+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png"
@@ -16666,6 +16868,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
@@ -16688,6 +16892,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5d184b4-65db-4ab5-b78e-925480ad2b9b-profile_image-300x300.jpg"
@@ -16710,6 +16916,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/fcf79498-7598-4863-b574-b857eccfae2f-profile_image-300x300.png"
@@ -16732,6 +16940,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/51608a4f-9e62-4296-94b7-14684537c86e-profile_image-300x300.png"
@@ -16754,6 +16964,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9a0e83eb-9cc3-4e2f-860d-6d7c73e4c76d-profile_image-300x300.png"
@@ -16776,6 +16988,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/198f7e64-b342-4d4a-9250-43d4bc531422-profile_image-300x300.png"
@@ -16798,6 +17012,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png"
@@ -16820,6 +17036,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-300x300.png"
@@ -16842,6 +17060,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c0f262e0-ba8d-4fc5-bcaa-3c92843351c7-profile_image-300x300.png"
@@ -16864,6 +17084,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc4aec60-6f43-4f02-8242-ece76fc632b4-profile_image-300x300.jpeg"
@@ -16886,6 +17108,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png"
@@ -16908,6 +17132,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -16930,6 +17156,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -16952,6 +17180,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png"
@@ -16974,6 +17204,8 @@
       "last_visit_at": "2026-10-24T23:12:30.176409+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
@@ -16996,6 +17228,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e1a6ff0-839f-41d1-974e-f9567779fe4e-profile_image-300x300.png"
@@ -17018,6 +17252,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c7accb8a-43b0-4bce-9259-b49d36c3c86d-profile_image-300x300.png"
@@ -17040,6 +17276,8 @@
       "last_visit_at": "2026-10-27T04:00:38.095482+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/146ef7be-cc5a-4e95-ba06-36ef55e204e4-profile_image-300x300.jpg"
@@ -17062,6 +17300,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
@@ -17084,6 +17324,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
@@ -17106,6 +17348,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2d12fc63-79e2-46e9-9f64-f6236c62b977-profile_image-300x300.jpg"
@@ -17128,6 +17372,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
@@ -17150,6 +17396,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/449586fa-d722-4c7d-9d2d-f6d323656fe5-profile_image-300x300.jpeg"
@@ -17172,6 +17420,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
@@ -17194,6 +17444,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png"
@@ -17216,6 +17468,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png"
@@ -17238,6 +17492,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -17260,6 +17516,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -17282,6 +17540,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/769f4c87-4568-44f3-83ea-5967ded0d62f-profile_image-300x300.png"
@@ -17304,6 +17564,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png"
@@ -17326,6 +17588,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee4e991f-2633-4df9-861a-84e40abd3457-profile_image-300x300.jpeg"
@@ -17348,6 +17612,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png"
@@ -17370,6 +17636,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -17392,6 +17660,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
@@ -17414,6 +17684,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e00ddded-3678-4e21-8b02-c78a409ba678-profile_image-300x300.png"
@@ -17436,6 +17708,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
@@ -17458,6 +17732,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -17480,6 +17756,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
@@ -17502,6 +17780,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a73898da-175e-4af3-affc-e71c1e2a7500-profile_image-300x300.jpeg"
@@ -17524,6 +17804,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a86a658e-fc1b-401d-93c5-059e5b2d3f70-profile_image-300x300.jpeg"
@@ -17546,6 +17828,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
@@ -17568,6 +17852,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/538494be-0898-4bf7-bb23-69c4c0b5613e-profile_image-300x300.jpeg"
@@ -17590,6 +17876,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
@@ -17612,6 +17900,8 @@
       "last_visit_at": "2026-09-24T09:48:20.788135+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b69ce539-0f44-4d01-9e46-023a779a9a77-profile_image-300x300.png"
@@ -17634,6 +17924,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png"
@@ -17656,6 +17948,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png"
@@ -17678,6 +17972,8 @@
       "last_visit_at": "2026-10-20T18:58:20.014096+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/28113136-ffaa-4dc1-9614-8f3e1337eeb4-profile_image-300x300.jpeg"
@@ -17700,6 +17996,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -17722,6 +18020,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e1b8879-2d61-46b1-b4bf-2b0f480da014-profile_image-300x300.png"
@@ -17744,6 +18044,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a4356502-2688-477c-84da-c11d82f784a1-profile_image-300x300.png"
@@ -17766,6 +18068,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -17788,6 +18092,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a780f042-0987-4770-a0a5-bc763fcbc165-profile_image-300x300.png"
@@ -17810,6 +18116,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/cff19cbf-c584-4b7b-bdc9-32ac62315487-profile_image-300x300.png"
@@ -17832,6 +18140,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -17854,6 +18164,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f92cd990-4e63-4ca3-937e-a6c3a7385afc-profile_image-300x300.jpeg"
@@ -17876,6 +18188,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -17898,6 +18212,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png"
@@ -17920,6 +18236,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -17942,6 +18260,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
@@ -17964,6 +18284,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e5ae8d89-7282-48b1-b620-507676f7d300-profile_image-300x300.png"
@@ -17986,6 +18308,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d49fdf44-3565-43cf-8cc3-61fe27598129-profile_image-300x300.png"
@@ -18008,6 +18332,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3f4e2d2-f215-4fcf-afd0-fc1ccbf66d5b-profile_image-300x300.png"
@@ -18030,6 +18356,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
@@ -18052,6 +18380,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dde0b50e-dd09-48d6-b9a5-f82389afc2b8-profile_image-300x300.jpg"
@@ -18074,6 +18404,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
@@ -18096,6 +18428,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3683dd68-01a7-46f8-a021-01d6220b0f17-profile_image-300x300.png"
@@ -18118,6 +18452,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1047ccc-766a-43be-bb2e-7e75598ba1b2-profile_image-300x300.png"
@@ -18140,6 +18476,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -18162,6 +18500,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
@@ -18184,6 +18524,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ba34b227-4526-4793-93cc-f6b23a7f338e-profile_image-300x300.png"
@@ -18206,6 +18548,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/796c4398-bd57-48b3-b23e-7241e6ab9f30-profile_image-300x300.png"
@@ -18228,6 +18572,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -18250,6 +18596,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed6cdb8a-ba19-41a2-ba7c-9147606309c4-profile_image-300x300.png"
@@ -18272,6 +18620,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png"
@@ -18294,6 +18644,8 @@
       "last_visit_at": "2026-10-27T06:28:23.353789+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/45300548-db5c-4747-8126-dd851b965acc-profile_image-300x300.png"
@@ -18316,6 +18668,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/fac2d070-aeca-46f1-9648-1667baa0fab7-profile_image-300x300.jpeg"
@@ -18338,6 +18692,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
@@ -18360,6 +18716,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png"
@@ -18382,6 +18740,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png"
@@ -18404,6 +18764,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
@@ -18426,6 +18788,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/737da1f3-de80-454b-a8b3-42149396ec72-profile_image-300x300.png"
@@ -18448,6 +18812,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f42e14a9-d40a-4537-8007-e68f64cbbc9d-profile_image-300x300.png"
@@ -18470,6 +18836,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png"
@@ -18492,6 +18860,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
@@ -18514,6 +18884,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -18536,6 +18908,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -18558,6 +18932,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -18580,6 +18956,8 @@
       "last_visit_at": "2026-09-24T09:15:12.832349+00:00",
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3ac2a6d9-00c6-4354-a89b-665953bdcecc-profile_image-300x300.png"
@@ -18602,6 +18980,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9a5bc1a2-6e9a-4406-9d0f-e34740e0c027-profile_image-300x300.jpeg"
@@ -18624,6 +19004,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/31f7e300-6901-41b7-8f77-f1677067bb1d-profile_image-300x300.png"
@@ -18646,6 +19028,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png"
@@ -18668,6 +19052,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
@@ -18690,6 +19076,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
@@ -18712,6 +19100,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -18734,6 +19124,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png"
@@ -18756,6 +19148,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c1d7e1ab-3a1b-4254-8e33-3b65e1e7bde8-profile_image-300x300.png"
@@ -18778,6 +19172,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
@@ -18800,6 +19196,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/58a1f47a-1be8-439f-9ab1-ba174de7c454-profile_image-300x300.png"
@@ -18822,6 +19220,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/79d58d8b-2ce3-4c3d-8b03-b3471104408d-profile_image-300x300.png"
@@ -18844,6 +19244,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b8c2ce2-1cc4-44c7-9697-0a8533fe376f-profile_image-300x300.png"
@@ -18866,6 +19268,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/552f2dd8-76f2-48b7-abbb-ed0b891c0f08-profile_image-300x300.png"
@@ -18888,6 +19292,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c699ddba-a4a2-4265-a69d-29f74533feae-profile_image-300x300.jpg"
@@ -18910,6 +19316,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png"
@@ -18932,6 +19340,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/95c3d25a-f2d1-4353-91d8-3a0d3d4aadb8-profile_image-300x300.png"
@@ -18954,6 +19364,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
@@ -18976,6 +19388,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
@@ -18998,6 +19412,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-300x300.png"
@@ -19020,6 +19436,8 @@
       "last_visit_at": "2026-08-20T03:10:43.940410+00:00",
       "is_followed": true,
       "is_subscriber": true,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1de79abd-c67d-4703-8168-195a6f670bff-profile_image-300x300.png"
@@ -19042,6 +19460,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c27c020-94f2-4151-ada3-3121d0ebc43b-profile_image-300x300.jpeg"
@@ -19064,6 +19484,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0c5976e7-6675-441b-9bdc-01d2ac115519-profile_image-300x300.jpg"
@@ -19086,6 +19508,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
@@ -19108,6 +19532,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -19130,6 +19556,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png"
@@ -19152,6 +19580,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/45461fb6-af2f-4c9d-a16f-aee3dacfebf2-profile_image-300x300.png"
@@ -19174,6 +19604,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/68a97c59-62ea-423c-9d94-55a47d25ccdd-profile_image-300x300.png"
@@ -19196,6 +19628,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -19218,6 +19652,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/413c65ab-2d7c-443f-a7b2-ee9d51c8b5b8-profile_image-300x300.png"
@@ -19240,6 +19676,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/thelimborise-profile_image-b3c83bf41432e266-300x300.jpeg"
@@ -19262,6 +19700,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png"
@@ -19284,6 +19724,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
@@ -19306,6 +19748,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
@@ -19328,6 +19772,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
@@ -19350,6 +19796,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
@@ -19372,6 +19820,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png"
@@ -19394,6 +19844,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7a9cfe0f-8e80-4a38-b4ed-254cbf1cf1f0-profile_image-300x300.jpeg"
@@ -19416,6 +19868,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -19438,6 +19892,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ed30111-5b05-4b23-a262-74100e34e2ef-profile_image-300x300.png"
@@ -19460,6 +19916,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
@@ -19482,6 +19940,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d6a9027-d3e0-4605-a83a-ac2fecb423f8-profile_image-300x300.jpg"
@@ -19504,6 +19964,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f8a3008a-c89f-4b7c-9f74-c32dbd75d8b7-profile_image-300x300.png"
@@ -19526,6 +19988,8 @@
       "last_visit_at": null,
       "is_followed": true,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -19548,6 +20012,8 @@
       "last_visit_at": "2026-08-22T20:50:56.608321+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
@@ -19570,6 +20036,8 @@
       "last_visit_at": "2026-09-01T09:40:42.718263+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/75305d54-c7cc-40d1-bb9c-91fbe85943c7-profile_image-300x300.png"
@@ -19592,6 +20060,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
@@ -19614,6 +20084,8 @@
       "last_visit_at": "2026-09-13T23:45:41.143906+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/68b2bed5-3f4c-41ea-943b-9d4fceb2ca1b-profile_image-300x300.png"
@@ -19636,6 +20108,8 @@
       "last_visit_at": "2026-08-29T14:13:44.183120+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3758051f-6da9-483d-9fea-754b5c913193-profile_image-300x300.png"
@@ -19658,6 +20132,8 @@
       "last_visit_at": "2026-09-11T12:56:40.392593+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e54653c5-aa03-460e-a2dd-816d3ac33289-profile_image-300x300.png"
@@ -19680,6 +20156,8 @@
       "last_visit_at": "2026-09-01T11:25:08.105416+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d5cd1b29-fec7-4e9f-bc20-5b261a375fba-profile_image-300x300.png"
@@ -19702,6 +20180,8 @@
       "last_visit_at": "2026-11-04T22:29:10.152294+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b215c06e-1cd2-46ff-bcd0-77125626c37a-profile_image-300x300.png"
@@ -19724,6 +20204,8 @@
       "last_visit_at": "2026-09-12T18:36:45.732731+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f9c98b2-329e-4824-910c-f4406db3d84c-profile_image-300x300.png"
@@ -19746,6 +20228,8 @@
       "last_visit_at": "2026-09-12T20:18:13.988149+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef66aeb3-f33f-4413-bc19-aba080a87009-profile_image-300x300.png"
@@ -19768,6 +20252,8 @@
       "last_visit_at": "2026-09-13T22:35:27.243353+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
@@ -19790,6 +20276,8 @@
       "last_visit_at": "2026-09-23T19:24:26.346089+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e6066ef-b8e9-45aa-a4d6-8fad18da588b-profile_image-300x300.png"
@@ -19812,6 +20300,8 @@
       "last_visit_at": "2026-09-12T21:13:28.310486+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -19834,6 +20324,8 @@
       "last_visit_at": "2026-09-13T22:30:25.708696+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/be5a63f5-b3a3-433e-9fa1-8ab59f4d820c-profile_image-300x300.png"
@@ -19856,6 +20348,8 @@
       "last_visit_at": "2026-09-13T21:30:11.500809+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
@@ -19878,6 +20372,8 @@
       "last_visit_at": "2026-09-24T08:48:07.692624+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b63d6fe-5db7-46a1-be11-c222fcad8e18-profile_image-300x300.png"
@@ -19900,6 +20396,8 @@
       "last_visit_at": "2026-09-19T16:51:43.288878+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -19922,6 +20420,8 @@
       "last_visit_at": "2026-09-24T18:15:33.741559+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/cffa9a76-01dc-45ed-aecc-5b16adcec944-profile_image-300x300.png"
@@ -19944,6 +20444,8 @@
       "last_visit_at": "2026-09-24T20:11:04.206756+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/299d2b0e-bf8f-4a9c-9b50-b413cb7b80eb-profile_image-300x300.png"
@@ -19966,6 +20468,8 @@
       "last_visit_at": "2026-09-20T15:21:05.529695+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/67f5b433-ffc6-495c-8d0c-b8d2f6ac2409-profile_image-300x300.png"
@@ -19988,6 +20492,8 @@
       "last_visit_at": "2026-09-24T16:41:08.734624+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
@@ -20010,6 +20516,8 @@
       "last_visit_at": "2026-09-24T10:04:24.165665+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/67c6ca8d-0423-4e92-8bb4-b658fe6ad55e-profile_image-300x300.png"
@@ -20032,6 +20540,8 @@
       "last_visit_at": "2026-09-23T19:38:28.252231+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/442b1df5-8e9e-4464-84c2-9980e9d3d365-profile_image-300x300.png"
@@ -20054,6 +20564,8 @@
       "last_visit_at": "2026-09-23T19:40:26.581135+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1c179096-1b5d-4281-82a9-cf186c9c410a-profile_image-300x300.png"
@@ -20076,6 +20588,8 @@
       "last_visit_at": "2026-09-23T22:58:43.814813+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -20098,6 +20612,8 @@
       "last_visit_at": "2026-11-07T23:41:01.270057+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ivan210268-profile_image-1cb5029d3c2ef6b1-300x300.jpeg"
@@ -20120,6 +20636,8 @@
       "last_visit_at": "2026-09-23T22:20:41.884798+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
@@ -20142,6 +20660,8 @@
       "last_visit_at": "2026-09-23T23:50:47.709874+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/de130ab0-def7-11e9-b668-784f43822e80-profile_image-300x300.png"
@@ -20164,6 +20684,8 @@
       "last_visit_at": "2026-09-24T02:53:08.410701+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/qzack-profile_image-5b713d210011a242-300x300.jpeg"
@@ -20186,6 +20708,8 @@
       "last_visit_at": "2026-09-24T03:17:05.912208+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
@@ -20208,6 +20732,8 @@
       "last_visit_at": "2026-09-24T04:09:18.264850+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2482ad9e-9f5b-4ae6-9cef-0ed562379f79-profile_image-300x300.jpeg"
@@ -20230,6 +20756,8 @@
       "last_visit_at": "2026-09-24T16:48:09.615340+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/56391f3f-79a8-4122-98ec-a841dc342064-profile_image-300x300.png"
@@ -20252,6 +20780,8 @@
       "last_visit_at": "2026-09-24T21:22:22.033239+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4c4a99d5-2db3-42ad-87a7-5ac0b76eb3bb-profile_image-300x300.png"
@@ -20274,6 +20804,8 @@
       "last_visit_at": "2026-09-24T06:55:54.069631+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ce57700a-def9-11e9-842d-784f43822e80-profile_image-300x300.png"
@@ -20296,6 +20828,8 @@
       "last_visit_at": "2026-09-24T07:09:52.716868+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -20318,6 +20852,8 @@
       "last_visit_at": "2026-09-24T10:55:34.565736+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3c148552-b73d-45a4-af3b-84dbb0bc26f1-profile_image-300x300.png"
@@ -20340,6 +20876,8 @@
       "last_visit_at": "2026-09-24T11:52:42.291873+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png"
@@ -20362,6 +20900,8 @@
       "last_visit_at": "2026-09-24T11:54:42.571850+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -20384,6 +20924,8 @@
       "last_visit_at": "2026-09-24T12:28:47.089380+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5c084eec-7015-4250-85ab-075efaf58bd1-profile_image-300x300.png"
@@ -20406,6 +20948,8 @@
       "last_visit_at": "2026-11-08T01:51:37.159206+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
@@ -20428,6 +20972,8 @@
       "last_visit_at": "2026-10-03T23:14:00.479947+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d616ccd6-9881-4599-8b43-389494e366f8-profile_image-300x300.png"
@@ -20450,6 +20996,8 @@
       "last_visit_at": "2026-10-04T02:56:00.745103+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/2eec505f-72bc-4bb1-93bc-5ecd22437761-profile_image-300x300.png"
@@ -20472,6 +21020,8 @@
       "last_visit_at": "2026-10-04T02:56:00.745152+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73fe7b4b-77c8-40bd-910c-ac8484fcb4c8-profile_image-300x300.png"
@@ -20494,6 +21044,8 @@
       "last_visit_at": "2026-10-04T02:56:00.745190+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d19fc9c4-a9c1-46ef-9aeb-b97baba1922a-profile_image-300x300.png"
@@ -20516,6 +21068,8 @@
       "last_visit_at": "2026-10-04T02:56:00.745228+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/4f21ce62-352a-4c41-81bd-82cc87f69bb3-profile_image-300x300.png"
@@ -20538,6 +21092,8 @@
       "last_visit_at": "2026-10-04T02:56:00.745263+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-300x300.png"
@@ -20560,6 +21116,8 @@
       "last_visit_at": "2026-10-04T02:56:00.745299+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d04c6d4d-e220-4135-bfe2-9b6fa3920a21-profile_image-300x300.jpeg"
@@ -20582,6 +21140,8 @@
       "last_visit_at": "2026-10-04T02:56:00.745333+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -20604,6 +21164,8 @@
       "last_visit_at": "2026-10-25T05:48:55.044240+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/71086bb7-9d4f-4b29-b45b-c5b072da444d-profile_image-300x300.png"
@@ -20626,6 +21188,8 @@
       "last_visit_at": "2026-10-04T03:28:09.658907+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dc5f034e-517a-4808-af0a-8aad109fc414-profile_image-300x300.png"
@@ -20648,6 +21212,8 @@
       "last_visit_at": "2026-10-04T02:56:00.745612+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c9f8fee4-0db7-4591-a665-86d2b2c55dbf-profile_image-300x300.png"
@@ -20670,6 +21236,8 @@
       "last_visit_at": "2026-10-04T06:04:50.907134+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
@@ -20692,6 +21260,8 @@
       "last_visit_at": "2026-10-04T06:33:58.672548+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": null
@@ -20714,6 +21284,8 @@
       "last_visit_at": "2026-10-04T06:55:02.422492+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -20736,6 +21308,8 @@
       "last_visit_at": "2026-10-28T15:58:36.451912+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/s_shalquoir-profile_image-16c112c2f3438b32-300x300.png"
@@ -20758,6 +21332,8 @@
       "last_visit_at": "2026-10-10T07:11:49.551347+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/fafd3bb5-1568-471f-a2aa-fc3114546f6b-profile_image-300x300.png"
@@ -20780,6 +21356,8 @@
       "last_visit_at": "2026-10-10T07:24:50.052102+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
@@ -20802,6 +21380,8 @@
       "last_visit_at": "2026-10-19T21:50:07.152647+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
@@ -20824,6 +21404,8 @@
       "last_visit_at": "2026-10-24T21:56:16.458011+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1676224-0e8b-4ddc-bbfe-7108bab654b0-profile_image-300x300.jpeg"
@@ -20846,6 +21428,8 @@
       "last_visit_at": "2026-10-25T07:25:12.552209+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
@@ -20868,6 +21452,8 @@
       "last_visit_at": "2026-10-26T06:11:14.737532+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b470226-f5f3-492c-83f3-b63e3c17adaf-profile_image-300x300.png"
@@ -20890,6 +21476,8 @@
       "last_visit_at": "2026-10-26T12:12:24.489798+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/47573626-d706-43ba-a2be-4d6cd575b554-profile_image-300x300.png"
@@ -20912,6 +21500,8 @@
       "last_visit_at": null,
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-300x300.png"
@@ -20934,6 +21524,8 @@
       "last_visit_at": "2026-10-28T08:01:39.722396+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
@@ -20956,6 +21548,8 @@
       "last_visit_at": "2026-10-28T08:53:58.968013+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png"
@@ -20978,6 +21572,8 @@
       "last_visit_at": "2026-10-28T10:46:25.340214+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
@@ -21000,6 +21596,8 @@
       "last_visit_at": "2026-10-28T12:51:57.013169+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-300x300.png"
@@ -21022,6 +21620,8 @@
       "last_visit_at": "2026-10-31T15:24:29.784415+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6897df4d-b9bd-45fa-80f8-ed034432471a-profile_image-300x300.png"
@@ -21044,9 +21644,11 @@
       "last_visit_at": "2026-11-04T20:54:51.459851+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
-      "avatar": null
+      "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
     },
     "dobriycolapepsinosugar": {
       "username": "dobriycolapepsinosugar",
@@ -21066,6 +21668,8 @@
       "last_visit_at": "2026-11-04T23:48:21.317326+00:00",
       "is_followed": false,
       "is_subscriber": false,
+      "is_banned": false,
+      "ban_expires_at": null,
       "is_moderator": false,
       "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
