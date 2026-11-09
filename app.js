@@ -1,5 +1,5 @@
-const DATA_URL = "public_viewers.json";
-const FALLBACK_URL = "public_viewers.example.json";
+const DATA_URL = "https://beiiiehblu.github.io/beiiiehblu_stats/public_viewers.json";
+const FALLBACK_URL = "public_viewers.json";
 const REFRESH_MS = 5 * 60 * 1000;
 
 const TOP_ALWAYS = 25;
