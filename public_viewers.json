@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T00:25:36.515380+00:00",
+  "updated_at": "2026-11-12T00:30:44.422644+00:00",
   "count": 303,
   "leaderboards": {
     "level": [
@@ -314,6 +314,20 @@
       },
       {
         "rank": 23,
+        "username": "rinyako",
+        "display_name": "RinyaKo",
+        "level": 4,
+        "xp": 1345,
+        "value": 1345,
+        "watch_seconds": 16140,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
+      },
+      {
+        "rank": 24,
         "username": "chik2008",
         "display_name": "chik2008",
         "level": 4,
@@ -327,7 +341,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "username": "ixaaar",
         "display_name": "ixaaar",
         "level": 4,
@@ -339,20 +353,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d04c6d4d-e220-4135-bfe2-9b6fa3920a21-profile_image-300x300.jpeg"
-      },
-      {
-        "rank": 25,
-        "username": "rinyako",
-        "display_name": "RinyaKo",
-        "level": 4,
-        "xp": 1320,
-        "value": 1320,
-        "watch_seconds": 15840,
-        "messages": 0,
-        "visits": 1,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
       },
       {
         "rank": 26,
@@ -2808,6 +2808,20 @@
       },
       {
         "rank": 23,
+        "username": "rinyako",
+        "display_name": "RinyaKo",
+        "level": 4,
+        "xp": 1345,
+        "value": 16140,
+        "watch_seconds": 16140,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
+      },
+      {
+        "rank": 24,
         "username": "chik2008",
         "display_name": "chik2008",
         "level": 4,
@@ -2821,7 +2835,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "username": "ixaaar",
         "display_name": "ixaaar",
         "level": 4,
@@ -2833,20 +2847,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d04c6d4d-e220-4135-bfe2-9b6fa3920a21-profile_image-300x300.jpeg"
-      },
-      {
-        "rank": 25,
-        "username": "rinyako",
-        "display_name": "RinyaKo",
-        "level": 4,
-        "xp": 1320,
-        "value": 15840,
-        "watch_seconds": 15840,
-        "messages": 0,
-        "visits": 1,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
       },
       {
         "rank": 26,
@@ -5934,6 +5934,20 @@
       },
       {
         "rank": 40,
+        "username": "rinyako",
+        "display_name": "RinyaKo",
+        "level": 4,
+        "xp": 1345,
+        "value": 1,
+        "watch_seconds": 16140,
+        "messages": 0,
+        "visits": 1,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
+      },
+      {
+        "rank": 41,
         "username": "ixaaar",
         "display_name": "ixaaar",
         "level": 4,
@@ -5945,20 +5959,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d04c6d4d-e220-4135-bfe2-9b6fa3920a21-profile_image-300x300.jpeg"
-      },
-      {
-        "rank": 41,
-        "username": "rinyako",
-        "display_name": "RinyaKo",
-        "level": 4,
-        "xp": 1320,
-        "value": 1,
-        "watch_seconds": 15840,
-        "messages": 0,
-        "visits": 1,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
       },
       {
         "rank": 42,
@@ -6800,9 +6800,9 @@
             "username": "rinyako",
             "display_name": "RinyaKo",
             "level": 4,
-            "xp": 130,
-            "value": 130,
-            "watch_seconds": 1560,
+            "xp": 155,
+            "value": 155,
+            "watch_seconds": 1860,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -6872,9 +6872,9 @@
             "username": "rinyako",
             "display_name": "RinyaKo",
             "level": 4,
-            "xp": 130,
-            "value": 1560,
-            "watch_seconds": 1560,
+            "xp": 155,
+            "value": 1860,
+            "watch_seconds": 1860,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -6973,9 +6973,9 @@
             "username": "rinyako",
             "display_name": "RinyaKo",
             "level": 4,
-            "xp": 130,
+            "xp": 155,
             "value": 1,
-            "watch_seconds": 1560,
+            "watch_seconds": 1860,
             "messages": 0,
             "visits": 1,
             "clips": 0,
@@ -7931,6 +7931,20 @@
           },
           {
             "rank": 23,
+            "username": "rinyako",
+            "display_name": "RinyaKo",
+            "level": 4,
+            "xp": 1345,
+            "value": 1345,
+            "watch_seconds": 16140,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
+          },
+          {
+            "rank": 24,
             "username": "chik2008",
             "display_name": "chik2008",
             "level": 4,
@@ -7944,7 +7958,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
           },
           {
-            "rank": 24,
+            "rank": 25,
             "username": "ixaaar",
             "display_name": "ixaaar",
             "level": 4,
@@ -7956,20 +7970,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d04c6d4d-e220-4135-bfe2-9b6fa3920a21-profile_image-300x300.jpeg"
-          },
-          {
-            "rank": 25,
-            "username": "rinyako",
-            "display_name": "RinyaKo",
-            "level": 4,
-            "xp": 1320,
-            "value": 1320,
-            "watch_seconds": 15840,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
           },
           {
             "rank": 26,
@@ -10425,6 +10425,20 @@
           },
           {
             "rank": 23,
+            "username": "rinyako",
+            "display_name": "RinyaKo",
+            "level": 4,
+            "xp": 1345,
+            "value": 16140,
+            "watch_seconds": 16140,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
+          },
+          {
+            "rank": 24,
             "username": "chik2008",
             "display_name": "chik2008",
             "level": 4,
@@ -10438,7 +10452,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
           },
           {
-            "rank": 24,
+            "rank": 25,
             "username": "ixaaar",
             "display_name": "ixaaar",
             "level": 4,
@@ -10450,20 +10464,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d04c6d4d-e220-4135-bfe2-9b6fa3920a21-profile_image-300x300.jpeg"
-          },
-          {
-            "rank": 25,
-            "username": "rinyako",
-            "display_name": "RinyaKo",
-            "level": 4,
-            "xp": 1320,
-            "value": 15840,
-            "watch_seconds": 15840,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
           },
           {
             "rank": 26,
@@ -13551,6 +13551,20 @@
           },
           {
             "rank": 40,
+            "username": "rinyako",
+            "display_name": "RinyaKo",
+            "level": 4,
+            "xp": 1345,
+            "value": 1,
+            "watch_seconds": 16140,
+            "messages": 0,
+            "visits": 1,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
+          },
+          {
+            "rank": 41,
             "username": "ixaaar",
             "display_name": "ixaaar",
             "level": 4,
@@ -13562,20 +13576,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/d04c6d4d-e220-4135-bfe2-9b6fa3920a21-profile_image-300x300.jpeg"
-          },
-          {
-            "rank": 41,
-            "username": "rinyako",
-            "display_name": "RinyaKo",
-            "level": 4,
-            "xp": 1320,
-            "value": 1,
-            "watch_seconds": 15840,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c551f5c7-fa3a-4bb1-bcd4-39532ae30125-profile_image-300x300.png"
           },
           {
             "rank": 42,
@@ -14751,17 +14751,17 @@
       "username": "rinyako",
       "display_name": "RinyaKo",
       "level": 4,
-      "xp": 1320,
+      "xp": 1345,
       "current_level_xp": 1000,
       "next_level_xp": 1500,
-      "xp_to_next": 180,
-      "progress": 0.64,
-      "watch_seconds": 15840,
+      "xp_to_next": 155,
+      "progress": 0.69,
+      "watch_seconds": 16140,
       "messages": 0,
       "visits": 1,
       "clips": 0,
       "raids": 0,
-      "last_seen": "2026-11-12T00:24:52.067909+00:00",
+      "last_seen": "2026-11-12T00:29:53.273547+00:00",
       "last_visit_at": "2026-11-11T23:59:44.871345+00:00",
       "is_followed": true,
       "is_subscriber": false,
