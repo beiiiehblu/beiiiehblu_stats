@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T23:07:34.145035+00:00",
+  "updated_at": "2026-11-18T23:27:45.701739+00:00",
   "count": 311,
   "leaderboards": {
     "level": [
@@ -398,6 +398,20 @@
       },
       {
         "rank": 29,
+        "username": "kotyareg",
+        "display_name": "Kotyareg",
+        "level": 4,
+        "xp": 1140,
+        "value": 1140,
+        "watch_seconds": 13680,
+        "messages": 0,
+        "visits": 19,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
+      },
+      {
+        "rank": 30,
         "username": "uncle__william",
         "display_name": "Uncle__William",
         "level": 4,
@@ -409,20 +423,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/420ff7b7-de52-4318-a015-3cdd039ff8a7-profile_image-300x300.png"
-      },
-      {
-        "rank": 30,
-        "username": "kotyareg",
-        "display_name": "Kotyareg",
-        "level": 4,
-        "xp": 1130,
-        "value": 1130,
-        "watch_seconds": 13560,
-        "messages": 0,
-        "visits": 18,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
       },
       {
         "rank": 31,
@@ -3018,6 +3018,20 @@
       },
       {
         "rank": 29,
+        "username": "kotyareg",
+        "display_name": "Kotyareg",
+        "level": 4,
+        "xp": 1140,
+        "value": 13680,
+        "watch_seconds": 13680,
+        "messages": 0,
+        "visits": 19,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
+      },
+      {
+        "rank": 30,
         "username": "uncle__william",
         "display_name": "Uncle__William",
         "level": 4,
@@ -3029,20 +3043,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/420ff7b7-de52-4318-a015-3cdd039ff8a7-profile_image-300x300.png"
-      },
-      {
-        "rank": 30,
-        "username": "kotyareg",
-        "display_name": "Kotyareg",
-        "level": 4,
-        "xp": 1130,
-        "value": 13560,
-        "watch_seconds": 13560,
-        "messages": 0,
-        "visits": 18,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
       },
       {
         "rank": 31,
@@ -5682,6 +5682,20 @@
       },
       {
         "rank": 2,
+        "username": "kotyareg",
+        "display_name": "Kotyareg",
+        "level": 4,
+        "xp": 1140,
+        "value": 19,
+        "watch_seconds": 13680,
+        "messages": 0,
+        "visits": 19,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
+      },
+      {
+        "rank": 3,
         "username": "sti4ch5",
         "display_name": "sti4ch5",
         "level": 18,
@@ -5693,20 +5707,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bc5c994-25d3-4cac-ac71-632524635444-profile_image-300x300.png"
-      },
-      {
-        "rank": 3,
-        "username": "kotyareg",
-        "display_name": "Kotyareg",
-        "level": 4,
-        "xp": 1130,
-        "value": 18,
-        "watch_seconds": 13560,
-        "messages": 0,
-        "visits": 18,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
       },
       {
         "rank": 4,
@@ -7658,6 +7658,20 @@
           },
           {
             "rank": 2,
+            "username": "kotyareg",
+            "display_name": "Kotyareg",
+            "level": 4,
+            "xp": 95,
+            "value": 2,
+            "watch_seconds": 1140,
+            "messages": 0,
+            "visits": 2,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
+          },
+          {
+            "rank": 3,
             "username": "cjlok_chapaev",
             "display_name": "cjlok_chapaev",
             "level": 2,
@@ -7671,7 +7685,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/07c50fa5-c608-4245-89c7-467bc64f0a17-profile_image-300x300.png"
           },
           {
-            "rank": 3,
+            "rank": 4,
             "username": "92lexa92",
             "display_name": "92lexa92",
             "level": 12,
@@ -7685,7 +7699,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0b64ade1add51959-profile_image-300x300.jpeg"
           },
           {
-            "rank": 4,
+            "rank": 5,
             "username": "sti4ch5",
             "display_name": "sti4ch5",
             "level": 18,
@@ -7699,7 +7713,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bc5c994-25d3-4cac-ac71-632524635444-profile_image-300x300.png"
           },
           {
-            "rank": 5,
+            "rank": 6,
             "username": "gypl",
             "display_name": "Gypl",
             "level": 23,
@@ -7713,7 +7727,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e86a2e5c-4c11-4384-b0af-6b9c5e4e160f-profile_image-300x300.jpeg"
           },
           {
-            "rank": 6,
+            "rank": 7,
             "username": "mkr1987",
             "display_name": "mkr1987",
             "level": 9,
@@ -7727,7 +7741,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/142ffb8e-1385-4c5e-9fb8-04e0bdb35f76-profile_image-300x300.jpeg"
           },
           {
-            "rank": 7,
+            "rank": 8,
             "username": "mjkey",
             "display_name": "MjKey",
             "level": 7,
@@ -7741,7 +7755,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/24e9db02-f831-4c08-8231-628e7d5a59d3-profile_image-300x300.png"
           },
           {
-            "rank": 8,
+            "rank": 9,
             "username": "zuvelia",
             "display_name": "zuvelia",
             "level": 2,
@@ -7755,7 +7769,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/b9a47d3a-e3e7-4e4c-8e0f-255137e405a0-profile_image-300x300.png"
           },
           {
-            "rank": 9,
+            "rank": 10,
             "username": "lexxkprod",
             "display_name": "lexxkprod",
             "level": 4,
@@ -7767,20 +7781,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/998f01ae-def8-11e9-b95c-784f43822e80-profile_image-300x300.png"
-          },
-          {
-            "rank": 10,
-            "username": "ashray132",
-            "display_name": "ashray132",
-            "level": 0,
-            "xp": 10,
-            "value": 1,
-            "watch_seconds": 120,
-            "messages": 0,
-            "visits": 1,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png"
           }
         ],
         "clips": [
@@ -8265,11 +8265,11 @@
             "username": "kotyareg",
             "display_name": "Kotyareg",
             "level": 4,
-            "xp": 850,
-            "value": 65,
-            "watch_seconds": 10200,
+            "xp": 860,
+            "value": 66,
+            "watch_seconds": 10320,
             "messages": 0,
-            "visits": 65,
+            "visits": 66,
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
@@ -8846,6 +8846,20 @@
           },
           {
             "rank": 29,
+            "username": "kotyareg",
+            "display_name": "Kotyareg",
+            "level": 4,
+            "xp": 1140,
+            "value": 1140,
+            "watch_seconds": 13680,
+            "messages": 0,
+            "visits": 19,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
+          },
+          {
+            "rank": 30,
             "username": "uncle__william",
             "display_name": "Uncle__William",
             "level": 4,
@@ -8857,20 +8871,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/420ff7b7-de52-4318-a015-3cdd039ff8a7-profile_image-300x300.png"
-          },
-          {
-            "rank": 30,
-            "username": "kotyareg",
-            "display_name": "Kotyareg",
-            "level": 4,
-            "xp": 1130,
-            "value": 1130,
-            "watch_seconds": 13560,
-            "messages": 0,
-            "visits": 18,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
           },
           {
             "rank": 31,
@@ -11466,6 +11466,20 @@
           },
           {
             "rank": 29,
+            "username": "kotyareg",
+            "display_name": "Kotyareg",
+            "level": 4,
+            "xp": 1140,
+            "value": 13680,
+            "watch_seconds": 13680,
+            "messages": 0,
+            "visits": 19,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
+          },
+          {
+            "rank": 30,
             "username": "uncle__william",
             "display_name": "Uncle__William",
             "level": 4,
@@ -11477,20 +11491,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/420ff7b7-de52-4318-a015-3cdd039ff8a7-profile_image-300x300.png"
-          },
-          {
-            "rank": 30,
-            "username": "kotyareg",
-            "display_name": "Kotyareg",
-            "level": 4,
-            "xp": 1130,
-            "value": 13560,
-            "watch_seconds": 13560,
-            "messages": 0,
-            "visits": 18,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
           },
           {
             "rank": 31,
@@ -14130,6 +14130,20 @@
           },
           {
             "rank": 2,
+            "username": "kotyareg",
+            "display_name": "Kotyareg",
+            "level": 4,
+            "xp": 1140,
+            "value": 19,
+            "watch_seconds": 13680,
+            "messages": 0,
+            "visits": 19,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
+          },
+          {
+            "rank": 3,
             "username": "sti4ch5",
             "display_name": "sti4ch5",
             "level": 18,
@@ -14141,20 +14155,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0bc5c994-25d3-4cac-ac71-632524635444-profile_image-300x300.png"
-          },
-          {
-            "rank": 3,
-            "username": "kotyareg",
-            "display_name": "Kotyareg",
-            "level": 4,
-            "xp": 1130,
-            "value": 18,
-            "watch_seconds": 13560,
-            "messages": 0,
-            "visits": 18,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9b59ad01-72c6-4f85-96ae-eac932fdb62c-profile_image-300x300.png"
           },
           {
             "rank": 4,
@@ -22171,18 +22171,18 @@
       "username": "kotyareg",
       "display_name": "Kotyareg",
       "level": 4,
-      "xp": 1130,
+      "xp": 1140,
       "current_level_xp": 1000,
       "next_level_xp": 1500,
-      "xp_to_next": 370,
-      "progress": 0.26,
-      "watch_seconds": 13560,
+      "xp_to_next": 360,
+      "progress": 0.28,
+      "watch_seconds": 13680,
       "messages": 0,
-      "visits": 18,
+      "visits": 19,
       "clips": 0,
       "raids": 0,
-      "last_seen": "2026-11-15T01:20:07.142141+00:00",
-      "last_visit_at": "2026-11-15T01:19:06.907933+00:00",
+      "last_seen": "2026-11-18T23:25:31.858613+00:00",
+      "last_visit_at": "2026-11-18T23:24:31.676847+00:00",
       "is_followed": false,
       "is_subscriber": false,
       "is_banned": false,
