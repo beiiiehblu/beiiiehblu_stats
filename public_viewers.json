@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T01:09:41.502047+00:00",
+  "updated_at": "2026-11-19T01:34:55.871588+00:00",
   "count": 311,
   "leaderboards": {
     "level": [
@@ -1196,6 +1196,20 @@
       },
       {
         "rank": 86,
+        "username": "matcha_gf",
+        "display_name": "Matcha_gf",
+        "level": 1,
+        "xp": 155,
+        "value": 155,
+        "watch_seconds": 1860,
+        "messages": 0,
+        "visits": 7,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b63d6fe-5db7-46a1-be11-c222fcad8e18-profile_image-300x300.png"
+      },
+      {
+        "rank": 87,
         "username": "danissimology",
         "display_name": "danissimology",
         "level": 1,
@@ -1209,7 +1223,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7b42ee6-9e95-4d22-9d4a-27fb5d305441-profile_image-300x300.png"
       },
       {
-        "rank": 87,
+        "rank": 88,
         "username": "1yujin_",
         "display_name": "1yujin_",
         "level": 1,
@@ -1223,7 +1237,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/56391f3f-79a8-4122-98ec-a841dc342064-profile_image-300x300.png"
       },
       {
-        "rank": 88,
+        "rank": 89,
         "username": "antii_haaipponnen",
         "display_name": "antii_haaipponnen",
         "level": 1,
@@ -1237,7 +1251,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
       },
       {
-        "rank": 89,
+        "rank": 90,
         "username": "igorek2043",
         "display_name": "igorek2043",
         "level": 1,
@@ -1249,20 +1263,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
-      },
-      {
-        "rank": 90,
-        "username": "matcha_gf",
-        "display_name": "Matcha_gf",
-        "level": 1,
-        "xp": 140,
-        "value": 140,
-        "watch_seconds": 1680,
-        "messages": 0,
-        "visits": 6,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b63d6fe-5db7-46a1-be11-c222fcad8e18-profile_image-300x300.png"
       },
       {
         "rank": 91,
@@ -3816,6 +3816,20 @@
       },
       {
         "rank": 86,
+        "username": "matcha_gf",
+        "display_name": "Matcha_gf",
+        "level": 1,
+        "xp": 155,
+        "value": 1860,
+        "watch_seconds": 1860,
+        "messages": 0,
+        "visits": 7,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b63d6fe-5db7-46a1-be11-c222fcad8e18-profile_image-300x300.png"
+      },
+      {
+        "rank": 87,
         "username": "danissimology",
         "display_name": "danissimology",
         "level": 1,
@@ -3829,7 +3843,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7b42ee6-9e95-4d22-9d4a-27fb5d305441-profile_image-300x300.png"
       },
       {
-        "rank": 87,
+        "rank": 88,
         "username": "1yujin_",
         "display_name": "1yujin_",
         "level": 1,
@@ -3843,7 +3857,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/56391f3f-79a8-4122-98ec-a841dc342064-profile_image-300x300.png"
       },
       {
-        "rank": 88,
+        "rank": 89,
         "username": "antii_haaipponnen",
         "display_name": "antii_haaipponnen",
         "level": 1,
@@ -3857,7 +3871,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
       },
       {
-        "rank": 89,
+        "rank": 90,
         "username": "igorek2043",
         "display_name": "igorek2043",
         "level": 1,
@@ -3869,20 +3883,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
-      },
-      {
-        "rank": 90,
-        "username": "matcha_gf",
-        "display_name": "Matcha_gf",
-        "level": 1,
-        "xp": 140,
-        "value": 1680,
-        "watch_seconds": 1680,
-        "messages": 0,
-        "visits": 6,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b63d6fe-5db7-46a1-be11-c222fcad8e18-profile_image-300x300.png"
       },
       {
         "rank": 91,
@@ -5769,11 +5769,11 @@
         "username": "matcha_gf",
         "display_name": "Matcha_gf",
         "level": 1,
-        "xp": 140,
-        "value": 6,
-        "watch_seconds": 1680,
+        "xp": 155,
+        "value": 7,
+        "watch_seconds": 1860,
         "messages": 0,
-        "visits": 6,
+        "visits": 7,
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b63d6fe-5db7-46a1-be11-c222fcad8e18-profile_image-300x300.png"
@@ -9644,6 +9644,20 @@
           },
           {
             "rank": 86,
+            "username": "matcha_gf",
+            "display_name": "Matcha_gf",
+            "level": 1,
+            "xp": 155,
+            "value": 155,
+            "watch_seconds": 1860,
+            "messages": 0,
+            "visits": 7,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b63d6fe-5db7-46a1-be11-c222fcad8e18-profile_image-300x300.png"
+          },
+          {
+            "rank": 87,
             "username": "danissimology",
             "display_name": "danissimology",
             "level": 1,
@@ -9657,7 +9671,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7b42ee6-9e95-4d22-9d4a-27fb5d305441-profile_image-300x300.png"
           },
           {
-            "rank": 87,
+            "rank": 88,
             "username": "1yujin_",
             "display_name": "1yujin_",
             "level": 1,
@@ -9671,7 +9685,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/56391f3f-79a8-4122-98ec-a841dc342064-profile_image-300x300.png"
           },
           {
-            "rank": 88,
+            "rank": 89,
             "username": "antii_haaipponnen",
             "display_name": "antii_haaipponnen",
             "level": 1,
@@ -9685,7 +9699,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
           },
           {
-            "rank": 89,
+            "rank": 90,
             "username": "igorek2043",
             "display_name": "igorek2043",
             "level": 1,
@@ -9697,20 +9711,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
-          },
-          {
-            "rank": 90,
-            "username": "matcha_gf",
-            "display_name": "Matcha_gf",
-            "level": 1,
-            "xp": 140,
-            "value": 140,
-            "watch_seconds": 1680,
-            "messages": 0,
-            "visits": 6,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b63d6fe-5db7-46a1-be11-c222fcad8e18-profile_image-300x300.png"
           },
           {
             "rank": 91,
@@ -12264,6 +12264,20 @@
           },
           {
             "rank": 86,
+            "username": "matcha_gf",
+            "display_name": "Matcha_gf",
+            "level": 1,
+            "xp": 155,
+            "value": 1860,
+            "watch_seconds": 1860,
+            "messages": 0,
+            "visits": 7,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b63d6fe-5db7-46a1-be11-c222fcad8e18-profile_image-300x300.png"
+          },
+          {
+            "rank": 87,
             "username": "danissimology",
             "display_name": "danissimology",
             "level": 1,
@@ -12277,7 +12291,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f7b42ee6-9e95-4d22-9d4a-27fb5d305441-profile_image-300x300.png"
           },
           {
-            "rank": 87,
+            "rank": 88,
             "username": "1yujin_",
             "display_name": "1yujin_",
             "level": 1,
@@ -12291,7 +12305,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/56391f3f-79a8-4122-98ec-a841dc342064-profile_image-300x300.png"
           },
           {
-            "rank": 88,
+            "rank": 89,
             "username": "antii_haaipponnen",
             "display_name": "antii_haaipponnen",
             "level": 1,
@@ -12305,7 +12319,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png"
           },
           {
-            "rank": 89,
+            "rank": 90,
             "username": "igorek2043",
             "display_name": "igorek2043",
             "level": 1,
@@ -12317,20 +12331,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
-          },
-          {
-            "rank": 90,
-            "username": "matcha_gf",
-            "display_name": "Matcha_gf",
-            "level": 1,
-            "xp": 140,
-            "value": 1680,
-            "watch_seconds": 1680,
-            "messages": 0,
-            "visits": 6,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b63d6fe-5db7-46a1-be11-c222fcad8e18-profile_image-300x300.png"
           },
           {
             "rank": 91,
@@ -14217,11 +14217,11 @@
             "username": "matcha_gf",
             "display_name": "Matcha_gf",
             "level": 1,
-            "xp": 140,
-            "value": 6,
-            "watch_seconds": 1680,
+            "xp": 155,
+            "value": 7,
+            "watch_seconds": 1860,
             "messages": 0,
-            "visits": 6,
+            "visits": 7,
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/7b63d6fe-5db7-46a1-be11-c222fcad8e18-profile_image-300x300.png"
@@ -21595,18 +21595,18 @@
       "username": "matcha_gf",
       "display_name": "Matcha_gf",
       "level": 1,
-      "xp": 140,
+      "xp": 155,
       "current_level_xp": 100,
       "next_level_xp": 300,
-      "xp_to_next": 160,
-      "progress": 0.2,
-      "watch_seconds": 1680,
+      "xp_to_next": 145,
+      "progress": 0.275,
+      "watch_seconds": 1860,
       "messages": 0,
-      "visits": 6,
+      "visits": 7,
       "clips": 0,
       "raids": 0,
-      "last_seen": "2026-09-24T08:52:08.474282+00:00",
-      "last_visit_at": "2026-09-24T08:48:07.692624+00:00",
+      "last_seen": "2026-11-19T01:34:00.762332+00:00",
+      "last_visit_at": "2026-11-19T01:32:00.282250+00:00",
       "is_followed": false,
       "is_subscriber": false,
       "is_banned": false,
