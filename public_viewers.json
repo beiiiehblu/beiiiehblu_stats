@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T01:04:35.461131+00:00",
+  "updated_at": "2026-11-19T01:09:41.502047+00:00",
   "count": 311,
   "leaderboards": {
     "level": [
@@ -1420,6 +1420,20 @@
       },
       {
         "rank": 102,
+        "username": "upoint",
+        "display_name": "UPoint",
+        "level": 1,
+        "xp": 120,
+        "value": 120,
+        "watch_seconds": 1440,
+        "messages": 0,
+        "visits": 4,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/65440e67-c4d1-4a6f-8757-86714b53dc7f-profile_image-300x300.png"
+      },
+      {
+        "rank": 103,
         "username": "chloeey_",
         "display_name": "chloeey_",
         "level": 1,
@@ -1433,7 +1447,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
       },
       {
-        "rank": 103,
+        "rank": 104,
         "username": "todianexus",
         "display_name": "todianexus",
         "level": 1,
@@ -1445,20 +1459,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
-      },
-      {
-        "rank": 104,
-        "username": "upoint",
-        "display_name": "UPoint",
-        "level": 1,
-        "xp": 110,
-        "value": 110,
-        "watch_seconds": 1320,
-        "messages": 0,
-        "visits": 4,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/65440e67-c4d1-4a6f-8757-86714b53dc7f-profile_image-300x300.png"
       },
       {
         "rank": 105,
@@ -4040,6 +4040,20 @@
       },
       {
         "rank": 102,
+        "username": "upoint",
+        "display_name": "UPoint",
+        "level": 1,
+        "xp": 120,
+        "value": 1440,
+        "watch_seconds": 1440,
+        "messages": 0,
+        "visits": 4,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/65440e67-c4d1-4a6f-8757-86714b53dc7f-profile_image-300x300.png"
+      },
+      {
+        "rank": 103,
         "username": "chloeey_",
         "display_name": "chloeey_",
         "level": 1,
@@ -4053,7 +4067,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
       },
       {
-        "rank": 103,
+        "rank": 104,
         "username": "todianexus",
         "display_name": "todianexus",
         "level": 1,
@@ -4065,20 +4079,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
-      },
-      {
-        "rank": 104,
-        "username": "upoint",
-        "display_name": "UPoint",
-        "level": 1,
-        "xp": 110,
-        "value": 1320,
-        "watch_seconds": 1320,
-        "messages": 0,
-        "visits": 4,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/65440e67-c4d1-4a6f-8757-86714b53dc7f-profile_image-300x300.png"
       },
       {
         "rank": 105,
@@ -5923,9 +5923,9 @@
         "username": "upoint",
         "display_name": "UPoint",
         "level": 1,
-        "xp": 110,
+        "xp": 120,
         "value": 4,
-        "watch_seconds": 1320,
+        "watch_seconds": 1440,
         "messages": 0,
         "visits": 4,
         "clips": 0,
@@ -9868,6 +9868,20 @@
           },
           {
             "rank": 102,
+            "username": "upoint",
+            "display_name": "UPoint",
+            "level": 1,
+            "xp": 120,
+            "value": 120,
+            "watch_seconds": 1440,
+            "messages": 0,
+            "visits": 4,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/65440e67-c4d1-4a6f-8757-86714b53dc7f-profile_image-300x300.png"
+          },
+          {
+            "rank": 103,
             "username": "chloeey_",
             "display_name": "chloeey_",
             "level": 1,
@@ -9881,7 +9895,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
           },
           {
-            "rank": 103,
+            "rank": 104,
             "username": "todianexus",
             "display_name": "todianexus",
             "level": 1,
@@ -9893,20 +9907,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
-          },
-          {
-            "rank": 104,
-            "username": "upoint",
-            "display_name": "UPoint",
-            "level": 1,
-            "xp": 110,
-            "value": 110,
-            "watch_seconds": 1320,
-            "messages": 0,
-            "visits": 4,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/65440e67-c4d1-4a6f-8757-86714b53dc7f-profile_image-300x300.png"
           },
           {
             "rank": 105,
@@ -12488,6 +12488,20 @@
           },
           {
             "rank": 102,
+            "username": "upoint",
+            "display_name": "UPoint",
+            "level": 1,
+            "xp": 120,
+            "value": 1440,
+            "watch_seconds": 1440,
+            "messages": 0,
+            "visits": 4,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/65440e67-c4d1-4a6f-8757-86714b53dc7f-profile_image-300x300.png"
+          },
+          {
+            "rank": 103,
             "username": "chloeey_",
             "display_name": "chloeey_",
             "level": 1,
@@ -12501,7 +12515,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
           },
           {
-            "rank": 103,
+            "rank": 104,
             "username": "todianexus",
             "display_name": "todianexus",
             "level": 1,
@@ -12513,20 +12527,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-300x300.png"
-          },
-          {
-            "rank": 104,
-            "username": "upoint",
-            "display_name": "UPoint",
-            "level": 1,
-            "xp": 110,
-            "value": 1320,
-            "watch_seconds": 1320,
-            "messages": 0,
-            "visits": 4,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/65440e67-c4d1-4a6f-8757-86714b53dc7f-profile_image-300x300.png"
           },
           {
             "rank": 105,
@@ -14371,9 +14371,9 @@
             "username": "upoint",
             "display_name": "UPoint",
             "level": 1,
-            "xp": 110,
+            "xp": 120,
             "value": 4,
-            "watch_seconds": 1320,
+            "watch_seconds": 1440,
             "messages": 0,
             "visits": 4,
             "clips": 0,
@@ -17659,17 +17659,17 @@
       "username": "upoint",
       "display_name": "UPoint",
       "level": 1,
-      "xp": 110,
+      "xp": 120,
       "current_level_xp": 100,
       "next_level_xp": 300,
-      "xp_to_next": 190,
-      "progress": 0.05,
-      "watch_seconds": 1320,
+      "xp_to_next": 180,
+      "progress": 0.1,
+      "watch_seconds": 1440,
       "messages": 0,
       "visits": 4,
       "clips": 0,
       "raids": 0,
-      "last_seen": "2026-11-19T01:03:54.386190+00:00",
+      "last_seen": "2026-11-19T01:05:54.821253+00:00",
       "last_visit_at": "2026-11-19T01:02:54.165101+00:00",
       "is_followed": true,
       "is_subscriber": false,
