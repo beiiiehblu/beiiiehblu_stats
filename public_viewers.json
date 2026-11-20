@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T13:52:58.442461+00:00",
+  "updated_at": "2026-11-20T13:55:34.386516+00:00",
   "count": 312,
   "leaderboards": {
     "level": [
@@ -15888,7 +15888,7 @@
       "is_banned": false,
       "ban_expires_at": null,
       "is_moderator": false,
-      "is_vip": true,
+      "is_vip": false,
       "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/34b15efc-ac6c-4ce9-b49f-12b81d968c3a-profile_image-300x300.jpeg"
     },
     "hodiachee_aloe": {
