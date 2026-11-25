@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T19:35:55.770728+00:00",
+  "updated_at": "2026-11-25T19:41:02.878017+00:00",
   "count": 312,
   "leaderboards": {
     "level": [
@@ -1252,6 +1252,20 @@
       },
       {
         "rank": 90,
+        "username": "chloeey_",
+        "display_name": "chloeey_",
+        "level": 1,
+        "xp": 140,
+        "value": 140,
+        "watch_seconds": 1680,
+        "messages": 0,
+        "visits": 6,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
+      },
+      {
+        "rank": 91,
         "username": "igorek2043",
         "display_name": "igorek2043",
         "level": 1,
@@ -1265,7 +1279,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
       },
       {
-        "rank": 91,
+        "rank": 92,
         "username": "s33bboo",
         "display_name": "s33bboo",
         "level": 1,
@@ -1279,7 +1293,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
       },
       {
-        "rank": 92,
+        "rank": 93,
         "username": "deaths_",
         "display_name": "deaths_",
         "level": 1,
@@ -1293,7 +1307,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
       },
       {
-        "rank": 93,
+        "rank": 94,
         "username": "ellieebees",
         "display_name": "ellieebees",
         "level": 1,
@@ -1307,7 +1321,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/299d2b0e-bf8f-4a9c-9b50-b413cb7b80eb-profile_image-300x300.png"
       },
       {
-        "rank": 94,
+        "rank": 95,
         "username": "jertixon",
         "display_name": "jertixon",
         "level": 1,
@@ -1321,7 +1335,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ca4eb2c-7c6e-4a15-9b38-9a2dff03f347-profile_image-300x300.png"
       },
       {
-        "rank": 95,
+        "rank": 96,
         "username": "vladimirs05",
         "display_name": "vladimirs05",
         "level": 1,
@@ -1333,20 +1347,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffe556e1-2312-405a-aadb-0199229114fb-profile_image-300x300.jpeg"
-      },
-      {
-        "rank": 96,
-        "username": "chloeey_",
-        "display_name": "chloeey_",
-        "level": 1,
-        "xp": 130,
-        "value": 130,
-        "watch_seconds": 1560,
-        "messages": 0,
-        "visits": 6,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
       },
       {
         "rank": 97,
@@ -3886,6 +3886,20 @@
       },
       {
         "rank": 90,
+        "username": "chloeey_",
+        "display_name": "chloeey_",
+        "level": 1,
+        "xp": 140,
+        "value": 1680,
+        "watch_seconds": 1680,
+        "messages": 0,
+        "visits": 6,
+        "clips": 0,
+        "raids": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
+      },
+      {
+        "rank": 91,
         "username": "igorek2043",
         "display_name": "igorek2043",
         "level": 1,
@@ -3899,7 +3913,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
       },
       {
-        "rank": 91,
+        "rank": 92,
         "username": "s33bboo",
         "display_name": "s33bboo",
         "level": 1,
@@ -3913,7 +3927,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
       },
       {
-        "rank": 92,
+        "rank": 93,
         "username": "deaths_",
         "display_name": "deaths_",
         "level": 1,
@@ -3927,7 +3941,7 @@
         "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
       },
       {
-        "rank": 93,
+        "rank": 94,
         "username": "ellieebees",
         "display_name": "ellieebees",
         "level": 1,
@@ -3941,7 +3955,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/299d2b0e-bf8f-4a9c-9b50-b413cb7b80eb-profile_image-300x300.png"
       },
       {
-        "rank": 94,
+        "rank": 95,
         "username": "jertixon",
         "display_name": "jertixon",
         "level": 1,
@@ -3955,7 +3969,7 @@
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ca4eb2c-7c6e-4a15-9b38-9a2dff03f347-profile_image-300x300.png"
       },
       {
-        "rank": 95,
+        "rank": 96,
         "username": "vladimirs05",
         "display_name": "vladimirs05",
         "level": 1,
@@ -3967,20 +3981,6 @@
         "clips": 0,
         "raids": 0,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffe556e1-2312-405a-aadb-0199229114fb-profile_image-300x300.jpeg"
-      },
-      {
-        "rank": 96,
-        "username": "chloeey_",
-        "display_name": "chloeey_",
-        "level": 1,
-        "xp": 130,
-        "value": 1560,
-        "watch_seconds": 1560,
-        "messages": 0,
-        "visits": 6,
-        "clips": 0,
-        "raids": 0,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
       },
       {
         "rank": 97,
@@ -5811,9 +5811,9 @@
         "username": "chloeey_",
         "display_name": "chloeey_",
         "level": 1,
-        "xp": 130,
+        "xp": 140,
         "value": 6,
-        "watch_seconds": 1560,
+        "watch_seconds": 1680,
         "messages": 0,
         "visits": 6,
         "clips": 0,
@@ -7305,9 +7305,9 @@
             "username": "chloeey_",
             "display_name": "chloeey_",
             "level": 1,
-            "xp": 35,
-            "value": 35,
-            "watch_seconds": 420,
+            "xp": 45,
+            "value": 45,
+            "watch_seconds": 540,
             "messages": 0,
             "visits": 2,
             "clips": 0,
@@ -7433,9 +7433,9 @@
             "username": "chloeey_",
             "display_name": "chloeey_",
             "level": 1,
-            "xp": 35,
-            "value": 420,
-            "watch_seconds": 420,
+            "xp": 45,
+            "value": 540,
+            "watch_seconds": 540,
             "messages": 0,
             "visits": 2,
             "clips": 0,
@@ -7535,9 +7535,9 @@
             "username": "chloeey_",
             "display_name": "chloeey_",
             "level": 1,
-            "xp": 35,
+            "xp": 45,
             "value": 2,
-            "watch_seconds": 420,
+            "watch_seconds": 540,
             "messages": 0,
             "visits": 2,
             "clips": 0,
@@ -8123,9 +8123,9 @@
             "username": "chloeey_",
             "display_name": "chloeey_",
             "level": 1,
-            "xp": 35,
+            "xp": 45,
             "value": 2,
-            "watch_seconds": 420,
+            "watch_seconds": 540,
             "messages": 0,
             "visits": 2,
             "clips": 0,
@@ -9488,6 +9488,20 @@
           },
           {
             "rank": 90,
+            "username": "chloeey_",
+            "display_name": "chloeey_",
+            "level": 1,
+            "xp": 140,
+            "value": 140,
+            "watch_seconds": 1680,
+            "messages": 0,
+            "visits": 6,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
+          },
+          {
+            "rank": 91,
             "username": "igorek2043",
             "display_name": "igorek2043",
             "level": 1,
@@ -9501,7 +9515,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
           },
           {
-            "rank": 91,
+            "rank": 92,
             "username": "s33bboo",
             "display_name": "s33bboo",
             "level": 1,
@@ -9515,7 +9529,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
           },
           {
-            "rank": 92,
+            "rank": 93,
             "username": "deaths_",
             "display_name": "deaths_",
             "level": 1,
@@ -9529,7 +9543,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
           },
           {
-            "rank": 93,
+            "rank": 94,
             "username": "ellieebees",
             "display_name": "ellieebees",
             "level": 1,
@@ -9543,7 +9557,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/299d2b0e-bf8f-4a9c-9b50-b413cb7b80eb-profile_image-300x300.png"
           },
           {
-            "rank": 94,
+            "rank": 95,
             "username": "jertixon",
             "display_name": "jertixon",
             "level": 1,
@@ -9557,7 +9571,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ca4eb2c-7c6e-4a15-9b38-9a2dff03f347-profile_image-300x300.png"
           },
           {
-            "rank": 95,
+            "rank": 96,
             "username": "vladimirs05",
             "display_name": "vladimirs05",
             "level": 1,
@@ -9569,20 +9583,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffe556e1-2312-405a-aadb-0199229114fb-profile_image-300x300.jpeg"
-          },
-          {
-            "rank": 96,
-            "username": "chloeey_",
-            "display_name": "chloeey_",
-            "level": 1,
-            "xp": 130,
-            "value": 130,
-            "watch_seconds": 1560,
-            "messages": 0,
-            "visits": 6,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
           },
           {
             "rank": 97,
@@ -12122,6 +12122,20 @@
           },
           {
             "rank": 90,
+            "username": "chloeey_",
+            "display_name": "chloeey_",
+            "level": 1,
+            "xp": 140,
+            "value": 1680,
+            "watch_seconds": 1680,
+            "messages": 0,
+            "visits": 6,
+            "clips": 0,
+            "raids": 0,
+            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
+          },
+          {
+            "rank": 91,
             "username": "igorek2043",
             "display_name": "igorek2043",
             "level": 1,
@@ -12135,7 +12149,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png"
           },
           {
-            "rank": 91,
+            "rank": 92,
             "username": "s33bboo",
             "display_name": "s33bboo",
             "level": 1,
@@ -12149,7 +12163,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/215b7342-def9-11e9-9a66-784f43822e80-profile_image-300x300.png"
           },
           {
-            "rank": 92,
+            "rank": 93,
             "username": "deaths_",
             "display_name": "deaths_",
             "level": 1,
@@ -12163,7 +12177,7 @@
             "avatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ebe4cd89-b4f4-4cd9-adac-2f30151b4209-profile_image-300x300.png"
           },
           {
-            "rank": 93,
+            "rank": 94,
             "username": "ellieebees",
             "display_name": "ellieebees",
             "level": 1,
@@ -12177,7 +12191,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/299d2b0e-bf8f-4a9c-9b50-b413cb7b80eb-profile_image-300x300.png"
           },
           {
-            "rank": 94,
+            "rank": 95,
             "username": "jertixon",
             "display_name": "jertixon",
             "level": 1,
@@ -12191,7 +12205,7 @@
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ca4eb2c-7c6e-4a15-9b38-9a2dff03f347-profile_image-300x300.png"
           },
           {
-            "rank": 95,
+            "rank": 96,
             "username": "vladimirs05",
             "display_name": "vladimirs05",
             "level": 1,
@@ -12203,20 +12217,6 @@
             "clips": 0,
             "raids": 0,
             "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/ffe556e1-2312-405a-aadb-0199229114fb-profile_image-300x300.jpeg"
-          },
-          {
-            "rank": 96,
-            "username": "chloeey_",
-            "display_name": "chloeey_",
-            "level": 1,
-            "xp": 130,
-            "value": 1560,
-            "watch_seconds": 1560,
-            "messages": 0,
-            "visits": 6,
-            "clips": 0,
-            "raids": 0,
-            "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/064aaf3d-fc40-4627-ad42-f69a01855e0c-profile_image-300x300.png"
           },
           {
             "rank": 97,
@@ -14047,9 +14047,9 @@
             "username": "chloeey_",
             "display_name": "chloeey_",
             "level": 1,
-            "xp": 130,
+            "xp": 140,
             "value": 6,
-            "watch_seconds": 1560,
+            "watch_seconds": 1680,
             "messages": 0,
             "visits": 6,
             "clips": 0,
@@ -21545,17 +21545,17 @@
       "username": "chloeey_",
       "display_name": "chloeey_",
       "level": 1,
-      "xp": 130,
+      "xp": 140,
       "current_level_xp": 100,
       "next_level_xp": 300,
-      "xp_to_next": 170,
-      "progress": 0.15,
-      "watch_seconds": 1560,
+      "xp_to_next": 160,
+      "progress": 0.2,
+      "watch_seconds": 1680,
       "messages": 0,
       "visits": 6,
       "clips": 0,
       "raids": 0,
-      "last_seen": "2026-11-25T19:35:47.840467+00:00",
+      "last_seen": "2026-11-25T19:37:48.725625+00:00",
       "last_visit_at": "2026-11-25T19:32:47.427815+00:00",
       "is_followed": false,
       "is_subscriber": false,
